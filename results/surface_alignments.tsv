@@ -1,0 +1,181 @@
+virus_id	virus_name	role	group	protein	protein_length	compartment	score	aligned_columns	matches	percent_identity	query_start	query_end	target_start	target_end	best_epitope	best_epitope_matches	best_epitope_aligned	best_epitope_percent
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	envelope glycoprotein B (YP_401713.1)	857	virion envelope glycoprotein	42.0	64	20	31.2	648	715	538	604	VPADPPTAF	2	9	22.2
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	envelope glycoprotein H (YP_401700.1)	706	virion envelope glycoprotein	44.0	11	6	54.5	283	293	648	658				
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	envelope glycoprotein L (YP_401678.1)	137	virion envelope glycoprotein	29.0	11	5	45.5	247	257	16	26				
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	envelope glycoprotein gp42 (YP_401672.1)	223	virion envelope glycoprotein	47.0	50	18	36.0	643	709	46	98	TPVPADPPTAF	5	11	45.5
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	envelope glycoprotein N (YP_401665.1)	102	virion envelope glycoprotein	36.0	30	10	33.3	506	535	19	51				
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	envelope glycoprotein M (YP_401685.1)	405	virion envelope glycoprotein	31.0	28	9	32.1	178	205	345	372				
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	envelope glycoprotein gp150 (YP_401694.1)	234	virion envelope glycoprotein	32.0	31	12	38.7	310	341	92	122	CD4_307_321	3	12	25.0
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	envelope glycoprotein gp48 (YP_401695.1)	420	virion envelope glycoprotein	42.0	43	16	37.2	480	530	44	86	FAWPGASSW	3	7	42.9
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	glycoprotein 350 (YP_401667.1)	907	virion envelope glycoprotein	45.0	87	20	23.0	166	253	432	519	ITTSTRTW	3	8	37.5
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	envelope glycoprotein B (YP_081514.1)	907	virion envelope glycoprotein	45.0	59	18	30.5	392	455	659	720	LIDQYLYYL	4	8	50.0
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	envelope glycoprotein H (YP_081523.1)	742	virion envelope glycoprotein	35.0	41	11	26.8	68	108	27	69				
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	envelope glycoprotein L (YP_081555.1)	278	virion envelope glycoprotein	33.0	18	8	44.4	372	389	134	151	IPQYGYLTL	2	9	22.2
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	envelope glycoprotein O (YP_081522.1)	472	virion envelope glycoprotein	40.0	46	16	34.8	687	733	265	312				
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	envelope glycoprotein M (YP_081547.1)	371	virion envelope glycoprotein	39.0	35	14	40.0	341	377	137	175	TDSDYQLPYVL	3	11	27.3
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	envelope glycoprotein N (YP_081521.1)	135	virion envelope glycoprotein	42.0	70	20	28.6	212	291	18	87	RVITTSTRTW	6	9	66.7
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	envelope glycoprotein UL130 (YP_081565.1)	214	virion envelope glycoprotein	40.0	61	17	27.9	481	544	80	148	FAWPGASSW	2	7	28.6
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	envelope protein UL131A (YP_081566.1)	129	virion envelope glycoprotein	26.0	16	7	43.8	450	465	106	124	VR4_450_460	3	11	27.3
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	envelope glycoprotein UL132 (YP_081567.1)	270	virion envelope glycoprotein	37.0	33	15	45.5	265	306	133	167				
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	glycoprotein B (NP_050220.1)	830	virion envelope glycoprotein	36.0	77	17	22.1	338	415	14	99	TDSDYQLPYVL	4	11	36.4
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	glycoprotein H (NP_050229.1)	694	virion envelope glycoprotein	37.0	17	6	35.3	697	713	119	135				
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	glycoprotein L (NP_050261.1)	250	virion envelope glycoprotein	56.0	59	19	32.2	663	722	113	176				
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	glycoprotein M (NP_050251.1)	344	virion envelope glycoprotein	33.0	16	6	37.5	257	272	328	343				
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	glycoprotein N (NP_050227.1)	84	virion envelope glycoprotein	34.0	16	6	37.5	422	437	31	46				
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	glycoprotein O (NP_050228.1)	738	virion envelope glycoprotein	46.0	98	25	25.5	628	725	232	343	TPVPADPPTAF	4	11	36.4
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	envelope glycoprotein Q (NP_050271.1)	616	virion envelope glycoprotein	42.0	56	18	32.1	293	351	203	258	TDSDYQLPYVL	4	6	66.7
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	putative fusion protein U49 (NP_050230.1)	252	virion envelope glycoprotein	31.0	5	4	80.0	289	293	82	86				
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	glycoprotein U85 (NP_050264.1)	292	virion envelope glycoprotein	37.0	39	11	28.2	242	280	228	269	RVITTSTRTW	1	6	16.7
+HHV7	Human herpesvirus 7	panel	Herpesviridae	envelope glycoprotein B (YP_073779.1)	822	virion envelope glycoprotein	40.0	92	24	26.1	6	98	413	518				
+HHV7	Human herpesvirus 7	panel	Herpesviridae	envelope glycoprotein H (YP_073788.1)	690	virion envelope glycoprotein	31.0	27	6	22.2	321	347	140	166				
+HHV7	Human herpesvirus 7	panel	Herpesviridae	envelope glycoprotein L (YP_073820.1)	246	virion envelope glycoprotein	32.0	19	5	26.3	698	716	146	164				
+HHV7	Human herpesvirus 7	panel	Herpesviridae	envelope glycoprotein M (YP_073812.1)	346	virion envelope glycoprotein	33.0	18	10	55.6	705	722	229	247				
+HHV7	Human herpesvirus 7	panel	Herpesviridae	envelope glycoprotein N (YP_073786.1)	86	virion envelope glycoprotein	23.0	7	4	57.1	557	563	20	26				
+HHV7	Human herpesvirus 7	panel	Herpesviridae	envelope glycoprotein O (YP_073787.1)	313	virion envelope glycoprotein	38.0	36	9	25.0	256	291	173	211				
+HHV7	Human herpesvirus 7	panel	Herpesviridae	envelope glycoprotein Q (YP_073827.1)	603	virion envelope glycoprotein	39.0	67	21	31.3	327	402	427	496	SDYQLPYVL	4	8	50.0
+BKV	BK polyomavirus	panel	Polyomaviridae	major capsid protein VP1 (YP_717939.1)	362	outer capsid	32.0	22	8	36.4	147	168	339	360				
+JCV	JC polyomavirus	panel	Polyomaviridae	major capsid protein VP1 (NP_043511.1)	354	outer capsid	36.0	25	8	32.0	55	79	172	196				
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	major capsid protein VP1 (YP_009111420.1)	423	outer capsid	37.0	30	8	26.7	137	166	198	227				
+KIPYV	KI polyomavirus	panel	Polyomaviridae	major capsid protein VP1 (YP_001111258.1)	378	outer capsid	32.0	13	7	53.8	250	262	305	317				
+WUPYV	WU polyomavirus	panel	Polyomaviridae	major capsid protein VP1 (YP_001285487.1)	369	outer capsid	33.0	62	16	25.8	434	495	293	359	SVAGPSNMAVQGR	4	13	30.8
+B19	Parvovirus B19	panel	Parvoviridae	capsid protein VP1 (YP_004928146.1)	781	outer capsid	567.0	588	184	31.3	38	698	116	733	IPQYGYLTL	6	9	66.7
+B19	Parvovirus B19	panel	Parvoviridae	capsid protein VP2 (YP_004928148.1)	554	outer capsid	466.0	471	144	30.6	212	698	7	506	IPQYGYLTL	6	9	66.7
+HBOV1	Human bocavirus 1	panel	Parvoviridae	capsid protein VP1 (YP_338088.1)	671	outer capsid	742.0	610	220	36.1	43	724	9	654	CD4_307_321	7	15	46.7
+HBOV1	Human bocavirus 1	panel	Parvoviridae	capsid protein VP2 (YP_338089.1)	542	outer capsid	515.0	483	159	32.9	195	724	11	525	CD4_307_321	7	15	46.7
+TTV1	Torque teno virus 1	panel	Anelloviridae	capsid protein VP1 (NP_817122.1)	770	outer capsid	41.0	45	15	33.3	303	354	361	406	TDSDYQLPYVL	4	9	44.4
+HADV_C	Human adenovirus C	panel	Adenoviridae	hexon (NP_040525.1)	968	outer capsid	44.0	35	11	31.4	207	242	430	464				
+HADV_C	Human adenovirus C	panel	Adenoviridae	penton base (NP_040521.1)	571	outer capsid	48.0	150	42	28.0	79	249	275	424	DTSFGGNLGR	4	10	40.0
+HADV_C	Human adenovirus C	panel	Adenoviridae	fiber (NP_040533.1)	582	outer capsid	43.0	34	12	35.3	164	197	4	38	QPAKKRLNF	2	9	22.2
+HADV_C	Human adenovirus C	panel	Adenoviridae	capsid protein IX (NP_040514.1)	140	outer capsid	30.0	20	7	35.0	56	76	31	50				
+HADV_B	Human adenovirus B1	panel	Adenoviridae	hexon (YP_002213779.1)	944	outer capsid	47.0	18	9	50.0	232	249	133	154	ITTSTRTW	4	8	50.0
+HADV_B	Human adenovirus B1	panel	Adenoviridae	penton base (YP_002213774.1)	544	outer capsid	44.0	30	10	33.3	415	444	172	202	FQFSYEFENV	4	6	66.7
+HADV_B	Human adenovirus B1	panel	Adenoviridae	fiber (YP_002213796.1)	319	outer capsid	33.0	25	9	36.0	82	108	62	86				
+HADV_B	Human adenovirus B1	panel	Adenoviridae	capsid protein IX (YP_002213768.1)	138	outer capsid	37.0	56	16	28.6	447	502	31	96	VR4_450_460	4	11	36.4
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	hemagglutinin (YP_009118626.1)	566	virion envelope glycoprotein	45.0	62	14	22.6	23	84	167	228				
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	neuraminidase (YP_009118627.1)	469	virion envelope glycoprotein	42.0	65	18	27.7	491	560	52	117	RFFPLSGSLI	4	10	40.0
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	matrix protein 2 (YP_009118622.1)	97	envelope small protein	25.0	21	8	38.1	669	692	2	22				
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	hemagglutinin (YP_308839.1)	566	virion envelope glycoprotein	40.0	31	11	35.5	483	516	123	153	FAWPGASSW	3	8	37.5
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	neuraminidase (YP_308842.1)	469	virion envelope glycoprotein	36.0	67	24	35.8	213	288	341	420	RVITTSTRTW	4	10	40.0
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	matrix protein 2 (YP_308840.1)	97	envelope small protein	30.0	8	5	62.5	302	309	11	18	CD4_304_318	4	6	66.7
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	hemagglutinin (NP_056660.1)	584	virion envelope glycoprotein	42.0	24	12	50.0	617	650	336	359				
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	neuraminidase (NP_056663.1)	466	virion envelope glycoprotein	31.0	36	10	27.8	243	280	158	196				
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	NB protein (NP_056662.1)	100	envelope small protein	29.0	19	7	36.8	44	64	81	99				
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	fusion protein F (NP_044596.1)	574	virion envelope glycoprotein	38.0	68	17	25.0	559	634	251	321	VR8_586_594	1	8	12.5
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	attachment glycoprotein G (NP_044595.1)	298	virion envelope glycoprotein	38.0	84	21	25.0	143	227	187	273	QPAKKRLNF	3	8	37.5
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	small hydrophobic protein SH (NP_044594.1)	64	envelope small protein	28.0	14	6	42.9	490	504	3	16	PAV91_491_498	2	8	25.0
+HMPV	Human metapneumovirus	panel	Pneumoviridae	fusion protein F (YP_012608.1)	539	virion envelope glycoprotein	40.0	32	12	37.5	328	360	404	435	SDYQLPYVL	4	9	44.4
+HMPV	Human metapneumovirus	panel	Pneumoviridae	attachment glycoprotein G (YP_012612.1)	219	virion envelope glycoprotein	52.0	57	14	24.6	135	192	107	163	QPAKKRLNF	3	9	33.3
+HMPV	Human metapneumovirus	panel	Pneumoviridae	small hydrophobic protein SH (YP_012611.1)	179	envelope small protein	32.0	35	11	31.4	699	733	46	81				
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	fusion protein F (NP_604440.1)	555	virion envelope glycoprotein	35.0	30	10	33.3	550	580	86	117				
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	hemagglutinin-neuraminidase (NP_604441.1)	575	virion envelope glycoprotein	36.0	39	12	30.8	210	248	402	450	ITTSTRTW	2	8	25.0
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	fusion protein F (NP_598404.1)	551	virion envelope glycoprotein	41.0	47	14	29.8	568	623	234	280	LPGMVWQDRDVY	3	12	25.0
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	hemagglutinin-neuraminidase (NP_598405.1)	571	virion envelope glycoprotein	53.0	99	24	24.2	350	450	301	411	LIDQYLYYL	5	9	55.6
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	fusion protein F (NP_067151.1)	539	virion envelope glycoprotein	47.0	23	9	39.1	558	580	92	114				
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	hemagglutinin-neuraminidase (NP_067152.1)	574	virion envelope glycoprotein	40.0	19	9	47.4	489	507	299	317	PAV91_491_498	5	8	62.5
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	fusion protein F (YP_008378663.1)	543	virion envelope glycoprotein	37.0	54	16	29.6	644	708	391	444	TPVPADPPTAF	2	9	22.2
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	hemagglutinin-neuraminidase (YP_008378664.1)	574	virion envelope glycoprotein	39.0	15	9	60.0	81	96	213	227				
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	surface glycoprotein (NP_073551.1)	1173	virion envelope glycoprotein	45.0	72	21	29.2	494	571	955	1031	SEFAWPGASSW	4	7	57.1
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	envelope protein (NP_073554.1)	77	envelope small protein	23.0	8	4	50.0	90	97	61	68				
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	membrane protein (NP_073555.1)	225	envelope small protein	43.0	39	15	38.5	555	596	156	195	VR8_586_594	4	9	44.4
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	spike protein (YP_003767.1)	1356	virion envelope glycoprotein	48.0	145	47	32.4	315	470	166	346	LIDQYLYYL	5	9	55.6
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	envelope protein (YP_003769.1)	77	envelope small protein	29.0	30	9	30.0	345	374	46	77	SDYQLPYVL	3	9	33.3
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	membrane protein (YP_003770.1)	226	envelope small protein	37.0	40	12	30.0	271	311	74	115	CD4_304_318	3	8	37.5
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	spike glycoprotein (YP_009555241.1)	1353	virion envelope glycoprotein	44.0	47	14	29.8	417	465	694	742	LIDQYLYYL	3	9	33.3
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	hemagglutinin-esterase (YP_009555240.1)	424	virion envelope glycoprotein	43.0	19	7	36.8	595	613	122	140	MVWQDRDVY	3	9	33.3
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	envelope protein (YP_009555243.1)	84	envelope small protein	28.0	9	4	44.4	611	619	5	13				
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	membrane protein (YP_009555244.1)	230	envelope small protein	31.0	16	6	37.5	405	420	109	124	FQFSYEFENV	3	10	30.0
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	spike glycoprotein (YP_173238.1)	1356	virion envelope glycoprotein	43.0	75	25	33.3	334	428	702	780	SQAVGRSSF	3	9	33.3
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	hemagglutinin-esterase (YP_173237.1)	386	virion envelope glycoprotein	36.0	15	5	33.3	274	288	326	340				
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	envelope protein (YP_173240.1)	82	envelope small protein	26.0	38	11	28.9	387	426	42	80	SQAVGRSSF	3	8	37.5
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	membrane glycoprotein (YP_173241.1)	223	envelope small protein	33.0	17	5	29.4	6	22	5	21				
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	surface glycoprotein (YP_009724390.1)	1273	virion envelope glycoprotein	50.0	98	32	32.7	254	354	450	562	CD4_304_318	7	15	46.7
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	envelope protein (YP_009724392.1)	75	envelope small protein	26.0	12	5	41.7	443	454	57	68				
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	membrane glycoprotein (YP_009724393.1)	222	envelope small protein	37.0	43	11	25.6	52	94	155	197				
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	capsid protein VP1 (NP_056821.2)	530	outer capsid	38.0	37	10	27.0	218	256	361	399	ITTSTRTW	1	8	12.5
+NORO_GII	Norovirus GII	panel	Caliciviridae	capsid protein VP1 (YP_009518842.1)	540	outer capsid	35.0	32	10	31.2	172	205	307	338				
+ROTA	Rotavirus A	panel	Reoviridae	outer capsid spike protein VP4 (YP_002302230.1)	776	outer capsid	45.0	76	17	22.4	196	271	559	635	ITTSTRTW	1	8	12.5
+ROTA	Rotavirus A	panel	Reoviridae	outer capsid protein VP7 (YP_002302222.1)	326	outer capsid	35.0	66	18	27.3	651	718	56	132	TPVPADPPTAF	3	11	27.3
+ASTV	Human astrovirus	panel	Astroviridae	capsid precursor (NP_059444.1)	786	outer capsid	44.0	46	15	32.6	227	272	343	396	ITTSTRTW	4	8	50.0
+HEV	Hepatitis E virus	panel	Hepeviridae	capsid protein (NP_056788.1)	660	outer capsid	40.0	57	18	31.6	112	168	362	423				
+HBV	Hepatitis B virus	panel	Hepadnaviridae	large envelope protein (YP_009173869.1)	389	virion envelope	35.0	31	9	29.0	278	312	8	38	CD4_304_318	3	9	33.3
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	major capsid protein L1 (NP_041332.2)	505	outer capsid	44.0	81	25	30.9	524	607	237	325	RFFPLSGSLIF	4	11	36.4
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	minor capsid protein L2 (NP_041331.2)	473	minor capsid	48.0	31	15	48.4	240	273	243	274	RVITTSTRTW	3	6	50.0
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	major capsid protein L1 (NP_040304.1)	500	outer capsid	39.0	87	27	31.0	250	351	266	356	CD4_304_318	5	8	62.5
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	minor capsid protein L2 (NP_040303.1)	459	minor capsid	32.0	24	11	45.8	173	197	397	425				
+AAV2	Adeno-associated virus 2	control	Parvoviridae	major coat protein VP1 (YP_680426.1)	735	outer capsid	3294.0	734	602	82.0	1	736	1	735	CD4_304_318	15	15	100.0
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	envelope glycoprotein L (YP_009137075.1)	224	virion envelope glycoprotein	38.0	40	14	35.0	33	72	146	185				
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	envelope glycoprotein M (YP_009137084.1)	473	virion envelope glycoprotein	42.0	44	14	31.8	164	208	366	409	QPAKKRLNF	3	9	33.3
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	envelope glycoprotein H (YP_009137096.1)	838	virion envelope glycoprotein	54.0	36	18	50.0	174	209	292	335				
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	envelope glycoprotein B (YP_009137102.1)	904	virion envelope glycoprotein	51.0	75	20	26.7	131	214	26	100	QPAKKRLNF	2	9	22.2
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	envelope glycoprotein C (YP_009137119.1)	511	virion envelope glycoprotein	48.0	82	18	22.0	645	726	84	167	TPVPADPPTAF	5	11	45.5
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	envelope glycoprotein N (YP_009137125.1)	91	virion envelope glycoprotein	41.0	29	12	41.4	184	217	24	52				
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	envelope glycoprotein K (YP_009137129.1)	338	virion envelope glycoprotein	31.0	16	6	37.5	44	59	147	162				
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	envelope glycoprotein G (YP_009137139.1)	238	virion envelope glycoprotein	47.0	54	19	35.2	165	220	42	98	QPAKKRLNF	2	9	22.2
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	envelope glycoprotein J (YP_009137140.1)	92	virion envelope glycoprotein	40.0	18	9	50.0	622	640	35	52				
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	envelope glycoprotein D (YP_009137141.1)	394	virion envelope glycoprotein	53.0	72	21	29.2	131	207	278	349	QPAKKRLNF	1	6	16.7
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	envelope glycoprotein I (YP_009137142.1)	390	virion envelope glycoprotein	39.0	67	16	23.9	127	198	183	250	QPAKKRLNF	0	9	0.0
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	envelope glycoprotein E (YP_009137143.1)	550	virion envelope glycoprotein	51.0	85	25	29.4	175	266	392	481	ITTSTRTW	1	8	12.5
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	envelope glycoprotein L (YP_009137152.1)	224	virion envelope glycoprotein	31.0	29	9	31.0	49	77	162	190				
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	envelope glycoprotein M (YP_009137161.1)	467	virion envelope glycoprotein	31.0	9	6	66.7	187	195	6	14				
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	envelope glycoprotein H (YP_009137173.1)	838	virion envelope glycoprotein	55.0	34	14	41.2	164	197	165	200	QPAKKRLNF	3	9	33.3
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	envelope glycoprotein B (YP_009137179.1)	904	virion envelope glycoprotein	44.0	63	22	34.9	131	206	15	88				
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	envelope glycoprotein C (YP_009137196.1)	480	virion envelope glycoprotein	48.0	83	20	24.1	461	550	228	312	RFFPLSGSLI	3	10	30.0
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	envelope glycoprotein N (YP_009137202.1)	87	virion envelope glycoprotein	34.0	15	8	53.3	62	76	25	39				
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	envelope glycoprotein K (YP_009137206.1)	338	virion envelope glycoprotein	30.0	7	5	71.4	191	197	66	72				
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	envelope glycoprotein G (YP_009137216.1)	699	virion envelope glycoprotein	51.0	94	28	29.8	133	227	405	512	QPAKKRLNF	1	9	11.1
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	envelope glycoprotein J (YP_009137217.1)	92	virion envelope glycoprotein	32.0	43	14	32.6	158	207	16	58				
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	envelope glycoprotein D (YP_009137218.1)	393	virion envelope glycoprotein	44.0	25	10	40.0	164	188	367	391	QPAKKRLNF	5	9	55.6
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	envelope glycoprotein I (YP_009137219.1)	372	virion envelope glycoprotein	42.0	54	21	38.9	151	210	186	241	QPAKKRLNF	2	9	22.2
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	envelope glycoprotein E (YP_009137220.1)	545	virion envelope glycoprotein	49.0	57	22	38.6	126	195	140	201				
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	envelope glycoprotein K (NP_040128.1)	340	virion envelope glycoprotein	30.0	30	12	40.0	47	77	73	102				
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	envelope glycoprotein N (YP_068406.1)	87	virion envelope glycoprotein	28.0	33	8	24.2	704	736	27	59				
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	envelope glycoprotein C (NP_040137.1)	560	virion envelope glycoprotein	35.0	9	6	66.7	30	38	138	146				
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	envelope glycoprotein B (NP_040154.2)	931	virion envelope glycoprotein	35.0	72	19	26.4	502	582	179	250	SEFAWPGASSW	4	8	50.0
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	envelope glycoprotein H (NP_040160.1)	841	virion envelope glycoprotein	38.0	60	17	28.3	22	81	291	356				
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	envelope glycoprotein M (NP_040172.1)	435	virion envelope glycoprotein	31.0	15	6	40.0	377	391	407	421	IPQYGYLTL	3	6	50.0
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	envelope glycoprotein L (NP_040182.1)	159	virion envelope glycoprotein	32.0	73	18	24.7	656	729	59	139	TPVPADPPTAF	3	7	42.9
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	envelope glycoprotein I (NP_040189.1)	354	virion envelope glycoprotein	61.0	41	13	31.7	231	271	228	268	RVITTSTRTW	4	10	40.0
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	envelope glycoprotein E (NP_040190.1)	623	virion envelope glycoprotein	40.0	38	11	28.9	66	103	26	67				
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	capsid protein VP2 (NP_042288.1:70-336)	267	outer capsid	33.0	45	14	31.1	382	429	174	219	FQFSYEFENV	2	10	20.0
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	capsid protein VP3 (NP_042288.1:337-574)	238	outer capsid	33.0	32	10	31.2	550	582	73	104				
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	capsid protein VP1 (NP_042288.1:575-872)	298	outer capsid	32.0	20	5	25.0	19	38	144	163				
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	capsid protein VP2 (NP_041009.1:70-331)	262	outer capsid	32.0	30	12	40.0	400	429	184	216	FQFSYEFENV	2	10	20.0
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	capsid protein VP3 (NP_041009.1:332-567)	236	outer capsid	52.0	54	12	22.2	628	683	27	80	TPVPADPPTAF	2	9	22.2
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	capsid protein VP1 (NP_041009.1:568-856)	289	outer capsid	37.0	53	19	35.8	335	388	171	225	SDYQLPYVL	5	9	55.6
+HRV_C	Rhinovirus C	panel	Picornaviridae	capsid protein VP2 (YP_001552411.1:68-328)	261	outer capsid	38.0	77	19	24.7	632	719	1	77				
+HRV_C	Rhinovirus C	panel	Picornaviridae	capsid protein VP3 (YP_001552411.1:329-563)	235	outer capsid	36.0	26	6	23.1	317	342	67	92				
+HRV_C	Rhinovirus C	panel	Picornaviridae	capsid protein VP1 (YP_001552411.1:564-837)	274	outer capsid	35.0	24	8	33.3	182	205	17	41				
+EVA	Enterovirus A	panel	Picornaviridae	capsid protein VP2 (NP_042242.1:70-323)	254	outer capsid	36.0	40	12	30.0	237	277	61	100	RVITTSTRTW	4	10	40.0
+EVA	Enterovirus A	panel	Picornaviridae	capsid protein VP3 (NP_042242.1:324-565)	242	outer capsid	34.0	15	8	53.3	632	649	22	36				
+EVA	Enterovirus A	panel	Picornaviridae	capsid protein VP1 (NP_042242.1:566-862)	297	outer capsid	34.0	26	8	30.8	662	687	84	111				
+EVB	Enterovirus B	panel	Picornaviridae	capsid protein VP2 (NP_040958.1:70-332)	263	outer capsid	41.0	43	15	34.9	397	440	184	229	FQFSYEFENV	2	10	20.0
+EVB	Enterovirus B	panel	Picornaviridae	capsid protein VP3 (NP_040958.1:333-570)	238	outer capsid	31.0	13	5	38.5	3	15	186	198				
+EVB	Enterovirus B	panel	Picornaviridae	capsid protein VP1 (NP_040958.1:571-848)	278	outer capsid	44.0	18	10	55.6	494	514	78	95	SEFAWPGASSW	4	8	50.0
+EVD68	Enterovirus D68	panel	Picornaviridae	capsid protein VP2 (YP_009505605.1:70-317)	248	outer capsid	41.0	43	17	39.5	382	430	161	206	FQFSYEFENV	2	10	20.0
+EVD68	Enterovirus D68	panel	Picornaviridae	capsid protein VP3 (YP_009505605.1:318-552)	235	outer capsid	36.0	29	10	34.5	91	119	53	82	DTSFGGNLGR	3	10	30.0
+EVD68	Enterovirus D68	panel	Picornaviridae	capsid protein VP1 (YP_009505605.1:553-861)	309	outer capsid	35.0	47	16	34.0	489	540	133	179	PAV91_491_498	5	8	62.5
+HPEV	Human parechovirus 1	panel	Picornaviridae	capsid protein VP0 (NP_046804.1:1-289)	289	outer capsid (VP0; parechoviruses do not cleave a VP4)	37.0	107	25	23.4	237	355	116	227	TDSDYQLPYVL	5	10	50.0
+HPEV	Human parechovirus 1	panel	Picornaviridae	capsid protein VP3 (NP_046804.1:290-542)	253	outer capsid	43.0	21	8	38.1	660	680	149	169				
+HPEV	Human parechovirus 1	panel	Picornaviridae	capsid protein VP1 (NP_046804.1:543-772)	230	outer capsid	33.0	22	6	27.3	246	267	158	179				
+DENV1	Dengue virus 1	panel	Flaviviridae	membrane protein M (NP_059433.1:206-280)	75	virion envelope	26.0	8	6	75.0	21	28	33	41				
+DENV1	Dengue virus 1	panel	Flaviviridae	envelope protein E (NP_059433.1:281-775)	495	virion envelope	35.0	19	7	36.8	365	383	166	184	IPQYGYLTL	5	9	55.6
+HAV	Hepatitis A virus	panel	Picornaviridae	capsid protein VP2 (NP_041007.1:24-245)	222	outer capsid	30.0	24	8	33.3	455	478	36	60	SVAGPSNMAVQGR	5	13	38.5
+HAV	Hepatitis A virus	panel	Picornaviridae	capsid protein VP3 (NP_041007.1:246-491)	246	outer capsid	33.0	26	10	38.5	559	590	1	26				
+HAV	Hepatitis A virus	panel	Picornaviridae	capsid protein VP1 (NP_041007.1:492-764)	273	outer capsid	44.0	56	18	32.1	443	506	207	262	SEFAWPGASSW	5	8	62.5
+SAPV	Sapovirus GI	panel	Caliciviridae	capsid protein VP1 (YP_077278.1:1738-2280)	543	outer capsid	40.0	27	10	37.0	505	531	317	343				
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC016L (F9L homolog) (NP_043967.1)	213	virion membrane	28.0	28	8	28.6	365	392	129	156	SQAVGRSSF	3	7	42.9
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC021L (F13L homolog) (NP_043972.1)	388	virion membrane	38.0	29	7	24.1	542	570	302	330				
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC057L (G3L homolog) (NP_044008.1)	108	virion membrane	26.0	19	6	31.6	116	134	90	108				
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC068R (G9R homolog) (NP_044019.1)	342	virion membrane	38.0	33	11	33.3	110	142	84	116	DTSFGGNLGR	4	7	57.1
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC069R (L1R homolog) (NP_044020.1)	243	virion membrane	32.0	29	9	31.0	328	361	46	74	SDYQLPYVL	3	9	33.3
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC074R (L5R homolog) (NP_044025.1)	146	virion membrane	37.0	35	10	28.6	518	555	93	127	RFFPLSGSLIF	1	10	10.0
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC078L (J5L homolog) (NP_044029.1)	134	virion membrane	29.0	8	5	62.5	191	198	113	120				
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC083R (H2R homolog) (NP_044034.1)	191	virion membrane	27.0	28	8	28.6	6	36	120	147				
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC084L (H3L homolog) (NP_044035.1)	298	virion membrane	31.0	20	7	35.0	259	278	34	53				
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC118L (A14L homolog) (NP_044069.1)	94	virion membrane	31.0	12	7	58.3	157	168	65	76				
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC121L (A16L homolog) (NP_044072.1)	364	virion membrane	38.0	40	9	22.5	552	591	287	326	VR8_586_594	3	6	50.0
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC122L (A17L homolog) (NP_044073.1)	179	virion membrane	26.0	8	5	62.5	111	118	107	114	DTSFGGNLGR	3	6	50.0
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC125L (A21L homolog) (NP_044076.1)	114	virion membrane	29.0	32	11	34.4	195	226	58	93				
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC131L (A26L homolog) (NP_044082.1)	513	virion membrane	33.0	33	5	15.2	277	309	160	192	CD4_304_318	1	6	16.7
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC133L (A27L homolog) (NP_044084.1)	546	virion membrane	55.0	30	11	36.7	190	219	347	376				
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MC134L (A28L homolog) (NP_044085.1)	141	virion membrane	34.0	31	11	35.5	410	445	29	59	FQFSYEFENV	3	10	30.0

@@ -1,4 +1,6 @@
-# AAV9 epitope homology with common human viruses
+# AAV9 capsid homology with common human viruses
+
+The full AAV9 capsid does not match the surface proteins of 50 common human viruses, except for the two human parvoviruses in the set. Bocavirus 1 VP1 is 36% identical to AAV9 VP1 over 610 residues, and parvovirus B19 VP1 is 31% identical over 588. Outside those capsids, the best 15-residue window on any virion surface protein is 9 of 15 identical residues, which is the best a composition-matched shuffle of AAV9 VP1 also reaches. No surface protein contains an exact AAV9 peptide of length 7 or more, and none of the close windows falls inside a published AAV9 epitope.
 
 Published AAV9 capsid epitopes stay distinct from the proteins of 50 common human viruses. Across 26 mapped peptides, the best ungapped match in those proteomes is 6 of 8 or 7 of 10 identical residues (70–75%), always with two or three substitutions. No epitope is identical to a viral peptide of length 7 or more, and none reaches 80% identity. A composition-matched shuffle of the capsid produces exact 6-mer and 7-mer overlaps at the same rate seen here, so those short matches are the background rate.
 
@@ -127,24 +129,71 @@ BLOSUM62 local alignment, identity over aligned columns:
 
 Identity of each epitope at that homologous register is in `results/parvovirus_epitope_identity.tsv`. Antibody footprints land at 11–33% identity in B19 and bocavirus. The HLA peptides are mostly in that same range. The two partial exceptions are B19 `IPQYGYLTL`/`PPQYAYLTV` (6/9) and B19 `TDSDYQLPYVL`/`VDHEYKYPYVL` (6/11), which share the C-terminal `YPYVL`.
 
+## Full capsid against virion surface proteins
+
+The epitope screen asked whether 26 published peptides occur anywhere in a viral proteome. This screen asks a different question: whether any part of the AAV9 capsid resembles a protein on the outside of the virus particle. The query is the whole VP1 sequence, all 736 residues, including the VP2 and VP3 regions. Rep proteins are not on the particle and were not scanned.
+
+A surface protein here means a protein of the infectious particle that faces the outside. For a non-enveloped virus that is the outer capsid. For an enveloped virus it is the envelope glycoproteins, including the small envelope proteins. Internal capsids of enveloped viruses, tegument, polymerases, and membrane proteins that act in the infected cell rather than on the particle were left out. The catalog is `data/surface_catalog.tsv` (179 proteins, 74,856 residues).
+
+Choices that change what gets scanned:
+
+- Polyomavirus surface is major capsid VP1 only. JC VP1 is NP_043511.1; the FASTA product name on that record is "hypothetical protein."
+- Adenovirus surface is hexon, penton base, fiber, and protein IX.
+- Picornavirus outer-capsid chains were cut from the polyprotein at the NCBI mature-peptide bounds. VP4 was not taken. Parechovirus has no VP4 cleavage, so VP0 was taken. Hepatitis A chains are the UniProt P08617 bounds on NP_041007.1 (VP2 24–245, VP3 246–491, VP1 492–764); the RefSeq feature table does not list them.
+- Sapovirus VP1 is ORF1 residues 1738–2280, from the Calici_coat domain through the end of the polyprotein. The minor capsid protein from ORF2 was left out.
+- Rotavirus surface is outer-capsid VP4 and VP7. Norovirus, astrovirus, and hepatitis E contribute their capsid proteins.
+- Hepatitis B is the large envelope protein only. It already contains preS1, preS2, and S, so the middle and small envelope proteins would have scanned the same S sequence again.
+- Papillomavirus L1 is the major capsid. L2 is included and labeled as the minor capsid protein because part of it is exposed and part is internal.
+- Herpesvirus surface proteins are the virion envelope glycoproteins (gB, gC, gD, gE, gG, gH, gI, gK, gL, gM, gN, and the extras each virus actually carries, such as EBV gp350/gp42/gp150 and the CMV pentamer subunits UL130, UL131A, and UL132). HSV-1 and HSV-2 each contribute 12, VZV contributes 9. UL20, UL43, and the CMV US2–US11 immune-evasion proteins are not in the set.
+- Influenza surface is HA, NA, and M2. Influenza B is HA, NA, and NB; BM2 is not annotated on B/Lee/1940. Coronavirus surface is spike, envelope, membrane, and hemagglutinin-esterase where that protein exists.
+- Molluscum contagiosum proteins are named only as MC###. Fifteen ORFs match a vaccinia Copenhagen virion-membrane protein at 30% or more identity across at least half of that protein. A sixteenth, MC084L, matches vaccinia H3L over 256 of 324 residues at 29.7% (score 357) and was kept because the alignment runs the length of both proteins. Two partial overlaps that cleared 30% on a gene that already had a full-length molluscum homolog (MC042L against L5R, MC046L against G3L) were dropped. No ORF reached the cutoff for vaccinia D8L, B5R, A33R, A34R, or A56R.
+
+Every one of the 50 viruses has at least one surface sequence. AAV2 VP1 was aligned as a positive control and was not part of the null.
+
+The same peptide rules were used. Exact means an identical peptide of length at least 7. High means length at least 8, at least 80% identity, and at most 2 substitutions. Moderate means length at least 8, at least 70% identity, and at most 3 substitutions. Every AAV9 9-mer, 11-mer, and 15-mer was also given its single best window on each virus's surface proteins. VP1 was aligned to each surface protein with BLOSUM62 (gap open −11, extension −1). The null shuffled VP1 25 times with the same composition and seed 20261012, and scored those shuffles against this surface set only.
+
+| Comparison | AAV9 VP1 | Shuffle mean (max) |
+|---|---|---|
+| Exact 7-mers on surface proteins | 0 | 0.04 (1) |
+| 9-mers with at least 7/9 identity | 34 windows, 36 pairs | 2.68 (7) windows |
+| Best 15-mer identity anywhere on the surface set | 12/15 | 8.48 (9) |
+
+Thirty-two of the 34 nine-residue windows are in bocavirus or B19 capsid protein. The other two are single 7/9 matches, HSV-2 glycoprotein N `GEPVNAADA` versus `GEPPNAAGA` and HHV-6B gB `YKSNNVEFA` versus `YKSVNVEEA`. Matches of that grade are what the shuffle produces. None of the 34 windows overlaps a published epitope. The 8/9 windows are the same bocavirus stretches found in the whole-proteome screen: `VLPGYKYLG` versus `VLPGYRYLG` in the VP1-unique region, and `CHFSPRDWQ` versus `CHFSPQDWQ` in the capsid core.
+
+The best 15-residue window in each virus:
+
+| Identity | Viruses |
+|---|---|
+| 12/15 | Bocavirus 1, `RGLVLPGYKYLGPGN` versus VP1 `RGWVLPGYRYLGPFN` (residues 43–57). This is the only moderate 15-mer. It has three substitutions, so it does not meet the high bar, and it is not inside a mapped epitope. |
+| 10/15 | B19, `AYFGYSTPWGYFDFN` versus VP1 `PIMGYSTPWRYLDFN` (residues 273–287). This is above every shuffle but below the moderate bar of 12/15. The shared core is `GYSTPW`. |
+| 9/15 | HSV-2 only. Glycoprotein E residues `SVPPPTPPRRPPVAP` match `SVPDPQPIGEPPAAP`. The shuffle maximum is also 9/15, and the stretch is proline-rich. |
+| 8/15 | EBV, HHV-6B, HHV-7, HSV-1, adenovirus C, rhinovirus B, parainfluenza 3, OC43, HPV-16, hepatitis A, molluscum contagiosum |
+| 7/15 | VZV, CMV, KI, WU, torque teno virus, adenovirus B, influenza A H1N1, influenza A H3N2, influenza B, metapneumovirus, parainfluenza 4, 229E, NL63, HKU1, SARS-CoV-2, norovirus GI, norovirus GII, rotavirus, astrovirus, sapovirus, enterovirus B, enterovirus D68, parechovirus, HPV-6, hepatitis E, dengue 1 |
+| 6/15 | BK, JC, Merkel cell, rhinovirus A, rhinovirus C, RSV A, parainfluenza 1, parainfluenza 2, enterovirus A, hepatitis B |
+
+BLOSUM62 local alignment separates the same two proteins from everything else. Bocavirus VP1 scores 742 (36.1% over 610 columns, AAV9 residues 43–724). B19 VP1 scores 567 (31.3% over 588 columns, residues 38–698). The highest score on any other surface protein is 61, for VZV glycoprotein I over 41 columns. AAV2 VP1, the control, scores 3294 (82.0% over 734 columns) and contains exact 15-mers of AAV9.
+
 ## Reading the result
 
 The 50-virus panel does not contain a peptide match close enough to treat any published AAV9 epitope as shared with a common unrelated virus. Matches at 70–75% with two or three substitutions, and without a shared 6-residue core, are what the null model produces from capsid-sized proteins searched against half a million residues.
 
-Bocavirus and B19 are homologous to AAV across the capsid, at about one residue in three. Their versions of the mapped AAV9 epitopes have diverged with the surface loops. The practical source of peptides that match AAV9 T-cell epitopes exactly is another AAV serotype: AAV2 reproduces `DTSFGGNLGR`, `RVITTSTRTW`, `LIDQYLYYL`, `SQAVGRSSF`, `LPGMVWQDRDVY`, and the mouse CD4 peptides without a substitution.
+Restricting the search to virion surface proteins, and extending the query from the 26 epitopes to all 736 capsid residues, does not add a second hit. The only surface proteins with a real alignment to AAV9 VP1 are bocavirus and B19. Their versions of the mapped epitopes have diverged with the surface loops. The practical source of peptides that match AAV9 T-cell epitopes exactly is another AAV serotype: AAV2 reproduces `DTSFGGNLGR`, `RVITTSTRTW`, `LIDQYLYYL`, `SQAVGRSSF`, `LPGMVWQDRDVY`, and the mouse CD4 peptides without a substitution.
 
 ## Limits
 
 Each virus is one reference genome, not every circulating genotype. A match would have to be created by strain variation that this reference lacks. Discontinuous antibody epitopes can resemble each other without a linear peptide match. T-cell cross-reactivity is occasionally reported for peptides that differ at one or two positions; this screen finds no AAV9 epitope in the 50 proteomes at that distance. HLA binding was not rescored, and no peptide was tested experimentally.
 
+The surface set is a definition, not a measurement of what is exposed on a particle. L2 and a few herpes glycoproteins are only partly exposed. Molluscum proteins were assigned by homology to vaccinia membrane proteins, so a genuine molluscum surface protein with no remaining vaccinia similarity would have been missed, and a homologous protein that is not on the molluscum particle would have been included. Influenza B BM2 is absent from the RefSeq annotation used here.
+
 ## Reproduce
 
 ```bash
 python3 src/fetch_proteomes.py   # refreshes data/proteomes from NCBI and checks UniProt Q6JC40
-python3 src/homology.py          # writes results/
+python3 src/homology.py          # epitope and whole-proteome screen; writes results/
+python3 src/surface_scan.py      # full VP1 against virion surface proteins; writes results/surface_*
 ```
 
-Dependencies are in `requirements.txt` (`biopython`, `numpy`, `requests`). The proteomes already in `data/proteomes/` are the CDS translations used for the tables above.
+Dependencies are in `requirements.txt` (`biopython`, `numpy`, `requests`). The proteomes already in `data/proteomes/` are the CDS translations used for the tables above. `data/features/polyproteins.ft` caches the mature-peptide coordinates, and `data/reference/vaccinia_copenhagen.faa` is the vaccinia membrane-protein reference used for molluscum.
 
 Output:
 
@@ -156,3 +205,10 @@ Output:
 - `results/domain_alignments.tsv` — BLOSUM62 capsid alignments
 - `results/parvovirus_epitope_identity.tsv` — epitope identity at the homologous register
 - `results/summary.json` — counts and the null model
+- `data/surface_catalog.tsv` — the 179 surface proteins and why each was included
+- `data/surface_proteins.faa` — their sequences, with polyprotein chains already sliced
+- `results/surface_best_windows.tsv` — best AAV9 9-mer, 11-mer, and 15-mer on each virus
+- `results/surface_peptide_hits.tsv` — exact 7-mers and 9-mers at 7/9 or better
+- `results/surface_alignments.tsv` — BLOSUM62 local alignment of VP1 to each surface protein
+- `results/surface_summary.json` — surface-set counts and the surface-only null
+- `results/mcv_surface_homologs.tsv` — every molluscum ORF against its best vaccinia membrane protein
