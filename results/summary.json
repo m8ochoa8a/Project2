@@ -1,0 +1,225 @@
+{
+  "aav9_length": 736,
+  "n_epitopes": 26,
+  "n_panel_viruses": 50,
+  "panel_virus_ids": [
+    "EBV",
+    "HHV6B",
+    "HHV7",
+    "VZV",
+    "CMV",
+    "HSV1",
+    "BKV",
+    "JCV",
+    "MCPyV",
+    "KIPYV",
+    "WUPYV",
+    "B19",
+    "HBOV1",
+    "TTV1",
+    "HADV_C",
+    "HADV_B",
+    "HRV_A",
+    "HRV_B",
+    "HRV_C",
+    "FLUA_H1N1",
+    "FLUA_H3N2",
+    "FLUB",
+    "RSV_A",
+    "HMPV",
+    "HPIV1",
+    "HPIV2",
+    "HPIV3",
+    "HPIV4",
+    "COV_229E",
+    "COV_OC43",
+    "COV_NL63",
+    "COV_HKU1",
+    "SARS2",
+    "NORO_GI",
+    "NORO_GII",
+    "ROTA",
+    "ASTV",
+    "SAPV",
+    "EVA",
+    "EVB",
+    "EVD68",
+    "HPEV",
+    "HPV16",
+    "HPV6",
+    "HSV2",
+    "HBV",
+    "HAV",
+    "HEV",
+    "DENV1",
+    "MCV"
+  ],
+  "notable_definition": {
+    "exact": "identical peptide, length >= 7",
+    "high": "length >= 8, identity >= 80%, at most 2 mismatches",
+    "moderate": "length >= 8, identity >= 70%, at most 3 mismatches"
+  },
+  "panel_notable_hits": 6,
+  "control_notable_hits": 18,
+  "exact_kmer_summary": {
+    "6": {
+      "shared_windows": 9,
+      "unique_peptides": 9
+    },
+    "7": {
+      "shared_windows": 0,
+      "unique_peptides": 0
+    }
+  },
+  "nine_mer_hits_ge_7_of_9": 60,
+  "null": {
+    "replicates": 25,
+    "seed": 20261012,
+    "observed_9mer_peptides_with_ge_7_of_9": 55,
+    "observed_9mer_pairs_ge_7_of_9": 60,
+    "null_9mer_peptides_mean": 21.0,
+    "null_9mer_peptides_max": 32,
+    "null_9mer_pairs_mean": 22.48,
+    "observed_exact_7mers": 0,
+    "null_exact_7mers_mean": 0.72,
+    "null_exact_7mers_max": 3,
+    "observed_exact_6mers": 9,
+    "null_exact_6mers_mean": 12.0,
+    "null_exact_6mers_max": 18,
+    "viral_unique_9mers": 493346,
+    "viral_unique_7mers": 487640,
+    "viral_unique_6mers": 476591
+  },
+  "best_panel_percent_by_epitope": [
+    {
+      "epitope_id": "DTSFGGNLGR",
+      "percent_identity": 70.0,
+      "virus_id": "COV_NL63"
+    },
+    {
+      "epitope_id": "TSFGGNLGR",
+      "percent_identity": 66.7,
+      "virus_id": "VZV"
+    },
+    {
+      "epitope_id": "QPAKKRLNF",
+      "percent_identity": 66.7,
+      "virus_id": "VZV"
+    },
+    {
+      "epitope_id": "RVITTSTRTW",
+      "percent_identity": 60.0,
+      "virus_id": "CMV"
+    },
+    {
+      "epitope_id": "ITTSTRTW",
+      "percent_identity": 75.0,
+      "virus_id": "HPV16"
+    },
+    {
+      "epitope_id": "CD4_304_318",
+      "percent_identity": 40.0,
+      "virus_id": "EBV"
+    },
+    {
+      "epitope_id": "CD4_307_321",
+      "percent_identity": 46.7,
+      "virus_id": "EBV"
+    },
+    {
+      "epitope_id": "TDSDYQLPYVL",
+      "percent_identity": 54.5,
+      "virus_id": "EBV"
+    },
+    {
+      "epitope_id": "SDYQLPYVL",
+      "percent_identity": 66.7,
+      "virus_id": "COV_229E"
+    },
+    {
+      "epitope_id": "IPQYGYLTL",
+      "percent_identity": 66.7,
+      "virus_id": "B19"
+    },
+    {
+      "epitope_id": "SQAVGRSSF",
+      "percent_identity": 66.7,
+      "virus_id": "SARS2"
+    },
+    {
+      "epitope_id": "FQFSYEFENV",
+      "percent_identity": 60.0,
+      "virus_id": "HHV7"
+    },
+    {
+      "epitope_id": "LIDQYLYYL",
+      "percent_identity": 66.7,
+      "virus_id": "SARS2"
+    },
+    {
+      "epitope_id": "VR4_450_460",
+      "percent_identity": 63.6,
+      "virus_id": "VZV"
+    },
+    {
+      "epitope_id": "SVAGPSNMAVQGR",
+      "percent_identity": 53.8,
+      "virus_id": "VZV"
+    },
+    {
+      "epitope_id": "VAGPSNMAV",
+      "percent_identity": 66.7,
+      "virus_id": "HSV1"
+    },
+    {
+      "epitope_id": "PAV91_491_498",
+      "percent_identity": 75.0,
+      "virus_id": "HADV_C"
+    },
+    {
+      "epitope_id": "SEFAWPGASSW",
+      "percent_identity": 54.5,
+      "virus_id": "HSV1"
+    },
+    {
+      "epitope_id": "FAWPGASSW",
+      "percent_identity": 55.6,
+      "virus_id": "EBV"
+    },
+    {
+      "epitope_id": "RFFPLSGSLIF",
+      "percent_identity": 63.6,
+      "virus_id": "HSV2"
+    },
+    {
+      "epitope_id": "RFFPLSGSLI",
+      "percent_identity": 70.0,
+      "virus_id": "HSV2"
+    },
+    {
+      "epitope_id": "VR8_586_594",
+      "percent_identity": 66.7,
+      "virus_id": "HADV_B"
+    },
+    {
+      "epitope_id": "LPGMVWQDRDVY",
+      "percent_identity": 50.0,
+      "virus_id": "EBV"
+    },
+    {
+      "epitope_id": "MVWQDRDVY",
+      "percent_identity": 66.7,
+      "virus_id": "HHV6B"
+    },
+    {
+      "epitope_id": "TPVPADPPTAF",
+      "percent_identity": 63.6,
+      "virus_id": "HSV1"
+    },
+    {
+      "epitope_id": "VPADPPTAF",
+      "percent_identity": 66.7,
+      "virus_id": "EBV"
+    }
+  ]
+}

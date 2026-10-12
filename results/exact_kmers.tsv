@@ -1,0 +1,10 @@
+k	vp1_start	vp1_end	peptide	n_viruses	viruses	example_virus	example_protein	example_start
+6	54	59	GPGNGL	1	EBV	EBV	nuclear antigen EBNA-1 (YP_401677.1)	9
+6	67	72	AADAAA	1	HADV_C	HADV_C	encapsidation protein 52K (NP_040519.1)	40
+6	192	197	PAAPSG	1	HSV2	HSV2	tegument host shutoff protein (YP_009137193.1)	157
+6	194	199	APSGVG	1	CMV	CMV	single-stranded DNA-binding protein (YP_081516.1)	1164
+6	195	200	PSGVGS	1	CMV	CMV	tegument protein IRS1 (YP_081587.1)	23
+6	235	240	LGDRVI	1	HHV6B	HHV6B	immediate-early protein IE2 (NP_050270.1)	1081
+6	276	281	GYSTPW	1	B19	B19	capsid protein 1 (YP_004928146.1)	309
+6	480	485	PGPSYR	1	VZV	VZV	envelope glycoprotein H (NP_040160.1)	301
+6	587	592	AQAQAQ	1	MCV	MCV	MC006L (NP_043957.1)	554

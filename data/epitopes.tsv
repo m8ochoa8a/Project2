@@ -1,0 +1,27 @@
+epitope_id	sequence	start	end	epitope_class	restriction	source	notes
+DTSFGGNLGR	DTSFGGNLGR	107	116	HLA-I	HLA-A*68:01	Brito-Sierra 2023 PMID:37662941	Naturally presented AAV9 peptide, cluster 1
+TSFGGNLGR	TSFGGNLGR	108	116	HLA-I	HLA-A*68:01	Brito-Sierra 2023 PMID:37662941	Shorter form of cluster 1
+QPAKKRLNF	QPAKKRLNF	165	173	HLA-I	HLA-B*07:02	Brito-Sierra 2023 PMID:37662941	Previously described AAV9 epitope; naturally presented
+RVITTSTRTW	RVITTSTRTW	238	247	HLA-I	HLA-B*57:01	Brito-Sierra 2023 PMID:37662941	Naturally presented, cluster 2, shared with AAV2/AAV6
+ITTSTRTW	ITTSTRTW	240	247	HLA-I	HLA-B*57:01	Brito-Sierra 2023 PMID:37662941	Shorter form of cluster 2
+CD4_304_318	NNWGFRPKRLNFKLF	304	318	HLA-II_mouse	mouse CD4, centered on R312	doi:10.1038/s41467-026-69917-9	Mouse epitope from overlapping peptides 102-103; not a mapped human HLA ligand
+CD4_307_321	GFRPKRLNFKLFNIQ	307	321	HLA-II_mouse	mouse CD4, centered on R312	doi:10.1038/s41467-026-69917-9	Overlapping mouse CD4 15-mer
+TDSDYQLPYVL	TDSDYQLPYVL	346	356	HLA-I	unassigned / HLA-B*40:02 for shorter form	Brito-Sierra 2023 PMID:37662941	Naturally presented AAV9 cluster 4
+SDYQLPYVL	SDYQLPYVL	348	356	HLA-I	HLA-B*40:02	Brito-Sierra 2023 PMID:37662941	9-mer form of cluster 4
+IPQYGYLTL	IPQYGYLTL	374	382	HLA-I	HLA-B*07:02	Brito-Sierra 2023 PMID:37662941	AAV9 homolog of the immunodominant AAV2 epitope VPQYGYLTL
+SQAVGRSSF	SQAVGRSSF	386	394	HLA-I	HLA-B*15:01	Brito-Sierra 2023 PMID:37662941	Naturally presented; previously linked to HLA-B*44
+FQFSYEFENV	FQFSYEFENV	411	420	HLA-I	HLA-A*02:01	doi:10.3389/fimmu.2025.1641289	Immunodominant in the 2025 donor screen (peptide 21)
+LIDQYLYYL	LIDQYLYYL	439	447	HLA-I	HLA-A*02:01	Brito-Sierra 2023 PMID:37662941	Previously validated AAV9 CD8 epitope
+VR4_450_460	TINGSGQNQQT	450	460	antibody_footprint	conformational, VR-IV	PMC8827038	Linear window on the 3-fold VR-IV loop; S454 is a critical contact for HL2370/HL2374. QNQSGSAQN in that paper is the AAV1 replacement, not AAV9.
+SVAGPSNMAVQGR	SVAGPSNMAVQGR	464	476	HLA-I	HLA-A*68:01	Brito-Sierra 2023 PMID:37662941; doi:10.3389/fimmu.2025.1641289	13-mer, 2025 peptide 26
+VAGPSNMAV	VAGPSNMAV	465	473	HLA-I	HLA-C*03:04	Brito-Sierra 2023 PMID:37662941	9-mer overlapping the 13-mer above
+PAV91_491_498	TTVTQNNN	491	498	antibody_footprint	conformational, VR-V and PAV9.1	PMC8827038; doi:10.1128/JVI.01011-18	AAV9 residues 491-495 plus the PAV9.1 contact 496-NNN-498
+SEFAWPGASSW	SEFAWPGASSW	499	509	HLA-I	HLA-B*44:02	Brito-Sierra 2023 PMID:37662941	Naturally presented cluster 7
+FAWPGASSW	FAWPGASSW	501	509	HLA-I	HLA-B*57:01 / HLA-B*35:01	Brito-Sierra 2023 PMID:37662941	Shorter form of cluster 7
+RFFPLSGSLIF	RFFPLSGSLIF	533	543	HLA-I	HLA-A*23:01 / HLA-A*24:02	Brito-Sierra 2023 PMID:37662941	Naturally presented cluster 9
+RFFPLSGSLI	RFFPLSGSLI	533	542	HLA-I	HLA-A*24:02	Brito-Sierra 2023 PMID:37662941	Shorter form of cluster 9
+VR8_586_594	SAQAQAQTG	586	594	antibody_footprint	conformational, VR-VIII and PAV9.1	PMC8827038; doi:10.1128/JVI.01011-18	Covers AAV9 587-591 and the PAV9.1 contact 588-QAQAQT-593
+LPGMVWQDRDVY	LPGMVWQDRDVY	602	613	HLA-I	HLA-B*35:01	Brito-Sierra 2023 PMID:37662941	Naturally presented cluster 11
+MVWQDRDVY	MVWQDRDVY	605	613	HLA-I	HLA-B*35:01	Brito-Sierra 2023 PMID:37662941	9-mer form of cluster 11
+TPVPADPPTAF	TPVPADPPTAF	652	662	HLA-I	HLA-B*35:01	Brito-Sierra 2023 PMID:37662941	Naturally presented cluster 12
+VPADPPTAF	VPADPPTAF	654	662	HLA-I	HLA-B*07:02	Brito-Sierra 2023 PMID:37662941	9-mer form of cluster 12

@@ -1,0 +1,52 @@
+virus_id	name	group	accessions	role	why_included
+EBV	Epstein-Barr virus (HHV-4)	Herpesviridae	NC_007605.1	panel	Adult seroprevalence typically about 90-95% worldwide
+HHV6B	Human herpesvirus 6B	Herpesviridae	NC_000898.1	panel	Roseola agent; adult seroprevalence commonly above 90%
+HHV7	Human herpesvirus 7	Herpesviridae	NC_001716.2	panel	Adult seroprevalence commonly about 85% or higher
+VZV	Varicella-zoster virus (HHV-3)	Herpesviridae	NC_001348.1	panel	Chickenpox; adult seroprevalence commonly above 90% where measured
+CMV	Cytomegalovirus (HHV-5)	Herpesviridae	NC_006273.2	panel	Adult seroprevalence often 50-90%, higher in many regions
+HSV1	Herpes simplex virus 1	Herpesviridae	NC_001806.2	panel	WHO estimate about 67% of people aged 0-49 in 2012
+BKV	BK polyomavirus	Polyomaviridae	NC_001538.1	panel	Adult seroprevalence commonly about 80-90%
+JCV	JC polyomavirus	Polyomaviridae	NC_001699.1	panel	Adult seroprevalence commonly about 50-70%
+MCPyV	Merkel cell polyomavirus	Polyomaviridae	NC_010277.2	panel	Adult seroprevalence commonly about 60-80%
+KIPYV	KI polyomavirus	Polyomaviridae	NC_009238.1	panel	Childhood respiratory polyomavirus; seroprevalence often above 50%
+WUPYV	WU polyomavirus	Polyomaviridae	NC_009539.1	panel	Childhood respiratory polyomavirus; seroprevalence often above 50%
+B19	Parvovirus B19	Parvoviridae	NC_000883.2	panel	Erythema infectiosum; adult seroprevalence often 40-80%. Same family as AAV
+HBOV1	Human bocavirus 1	Parvoviridae	NC_007455.1	panel	Common childhood respiratory virus. Same family as AAV
+TTV1	Torque teno virus 1	Anelloviridae	NC_002076.2	panel	Anellovirus viremia is very common in healthy adults; representative genome
+HADV_C	Human adenovirus C	Adenoviridae	NC_001405.1	panel	Endemic childhood respiratory adenovirus (includes Ad5)
+HADV_B	Human adenovirus B1	Adenoviridae	NC_011203.1	panel	Common respiratory adenovirus species, distinct from species C
+HRV_A	Rhinovirus A (HRV-89)	Picornaviridae	NC_001617.1	panel	Most frequent cause of the common cold; near-universal repeated infection
+HRV_B	Rhinovirus B (B14)	Picornaviridae	NC_001490.1	panel	Second rhinovirus species; repeated lifetime infection
+HRV_C	Rhinovirus C	Picornaviridae	NC_009996.1	panel	Major cause of childhood wheezing illness and colds
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	Orthomyxoviridae	NC_026438.1;NC_026435.1;NC_026437.1;NC_026433.1;NC_026436.1;NC_026434.1;NC_026431.1;NC_026432.1	panel	Pandemic and seasonal H1N1; most people are infected repeatedly over a lifetime
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	Orthomyxoviridae	NC_007373.1;NC_007372.1;NC_007371.1;NC_007366.1;NC_007369.1;NC_007368.1;NC_007367.1;NC_007370.1	panel	The other globally dominant seasonal influenza A subtype
+FLUB	Influenza B (B/Lee/1940)	Orthomyxoviridae	NC_002204.1;NC_002205.1;NC_002206.1;NC_002207.1;NC_002208.1;NC_002209.1;NC_002210.1;NC_002211.1	panel	Seasonal influenza B; repeated lifetime exposure
+RSV_A	Respiratory syncytial virus A	Pneumoviridae	NC_001803.1	panel	Nearly all children are infected by age 2; repeated adult infections
+HMPV	Human metapneumovirus	Pneumoviridae	NC_004148.2	panel	Common childhood and adult respiratory virus; most people infected in childhood
+HPIV1	Human parainfluenza virus 1	Paramyxoviridae	NC_003461.1	panel	Common croup-associated childhood respiratory infection
+HPIV2	Human parainfluenza virus 2	Paramyxoviridae	NC_003443.1	panel	Common childhood respiratory infection
+HPIV3	Human parainfluenza virus 3	Paramyxoviridae	NC_001796.2	panel	Most children are infected in early childhood
+HPIV4	Human parainfluenza virus 4a	Paramyxoviridae	NC_021928.1	panel	Common but less often diagnosed respiratory infection
+COV_229E	Human coronavirus 229E	Coronaviridae	NC_002645.1	panel	Endemic common-cold coronavirus
+COV_OC43	Human coronavirus OC43	Coronaviridae	NC_006213.1	panel	Endemic common-cold coronavirus; very high adult seroprevalence
+COV_NL63	Human coronavirus NL63	Coronaviridae	NC_005831.2	panel	Endemic common-cold coronavirus
+COV_HKU1	Human coronavirus HKU1	Coronaviridae	NC_006577.2	panel	Endemic common-cold coronavirus
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	Coronaviridae	NC_045512.2	panel	Pandemic coronavirus; a majority of the world population has been infected
+NORO_GI	Norovirus GI (Norwalk)	Caliciviridae	NC_001959.2	panel	Epidemic gastroenteritis; repeated infections are common
+NORO_GII	Norovirus GII	Caliciviridae	NC_039477.1	panel	Causes most norovirus outbreaks worldwide
+ROTA	Rotavirus A	Reoviridae	NC_011507.2;NC_011506.2;NC_011508.2;NC_011510.2;NC_011500.2;NC_011509.2;NC_011501.2;NC_011502.2;NC_011503.2;NC_011504.2;NC_011505.2	panel	Historically a near-universal early-childhood infection
+ASTV	Human astrovirus	Astroviridae	NC_001943.1	panel	Common childhood gastroenteritis virus
+SAPV	Sapovirus GI	Caliciviridae	NC_006269.1	panel	Common viral gastroenteritis, especially in children
+EVA	Enterovirus A	Picornaviridae	NC_001612.1	panel	Includes coxsackieviruses that cause hand-foot-and-mouth disease; very common
+EVB	Enterovirus B	Picornaviridae	NC_001472.1	panel	Includes coxsackievirus B and echoviruses; very common
+EVD68	Enterovirus D68	Picornaviridae	NC_038308.1	panel	Increasingly recognized respiratory enterovirus with widespread outbreaks
+HPEV	Human parechovirus 1	Picornaviridae	NC_001897.1	panel	HPeV-1 seroprevalence is high by early childhood
+HPV16	Human papillomavirus 16	Papillomaviridae	NC_001526.4	panel	Common sexually transmitted papillomavirus
+HPV6	Human papillomavirus 6b	Papillomaviridae	NC_001355.1	panel	Common low-risk papillomavirus (genital warts)
+HSV2	Herpes simplex virus 2	Herpesviridae	NC_001798.2	panel	WHO global prevalence roughly 13% of people aged 15-49
+HBV	Hepatitis B virus	Hepadnaviridae	NC_003977.2	panel	Very large cumulative number of infections; chronic prevalence about 3-4% globally
+HAV	Hepatitis A virus	Picornaviridae	NC_001489.1	panel	High cumulative incidence in many regions; fecal-oral hepatitis
+HEV	Hepatitis E virus	Hepeviridae	NC_001434.1	panel	Common cause of acute hepatitis in large parts of Asia and Africa; seroprevalence often well above 10%
+DENV1	Dengue virus 1	Flaviviridae	NC_001477.1	panel	Tens of millions of infections yearly; representative of the four dengue serotypes
+MCV	Molluscum contagiosum virus	Poxviridae	NC_001731.1	panel	Very common childhood skin infection
+AAV2	Adeno-associated virus 2	Parvoviridae	NC_001401.2	control	Positive control. Natural AAV infection is the main source of anti-AAV antibodies and is not part of the 50-virus panel

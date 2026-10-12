@@ -1,0 +1,1327 @@
+virus_id	virus_name	role	group	epitope_id	epitope_class	epitope	length	identity	percent_identity	mismatches	label	viral_peptide	viral_start	viral_protein	proteins	residues
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		PTMFNGELGA	368	tegument protein G75 (YP_401633.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	5	55.6	4		TMFNGELGA	369	tegument protein G75 (YP_401633.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	5	55.6	4		TYAKQRLNN	827	single-stranded DNA-binding protein (YP_401717.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		RNSETFTETW	60	apoptosis regulator BHRF1 (YP_401646.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	5	62.5	3		QTTRTRTN	101	envelope glycoprotein 48 (YP_401695.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		YHLEFVYKFLAFKLK	56	nuclear egress membrane protein (YP_401649.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	7	46.7	8		EFVYKFLAFKLKNCN	59	nuclear egress membrane protein (YP_401649.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	6	54.5	5		TTSDGQAFLVL	467	DNA packaging tegument protein UL17 (YP_401692.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		SDSVLTYRL	2219	large tegument protein (YP_401652.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		VRQLLYLTL	508	protein UL49 (YP_401650.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		SMAVGCDSS	903	nuclear antigen EBNA-3C (YP_401671.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		FSDLVKFENV	19	membrane protein BILF2 (YP_401706.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		LLARYAYYL	416	single-stranded DNA-binding protein (YP_401717.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		PDNERGDNVQT	14	nuclear antigen EBNA-3C (YP_401671.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	6	46.2	7		PTPGPSNAAPVCR	401	nuclear antigen EBNA-2 (YP_401644.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		TPGPSNAAP	402	nuclear antigen EBNA-2 (YP_401644.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTPTPNAT	514	glycoprotein 350 (YP_401667.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		FYFNAAGASRW	2529	large tegument protein (YP_401652.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	5	55.6	4		FNAAGASRW	2531	large tegument protein (YP_401652.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	6	54.5	5		RGPPLSSSLGL	17	latent membrane protein LMP-1 (YP_401722.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	6	60.0	4		RGPPLSSSLG	17	latent membrane protein LMP-1 (YP_401722.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	5	55.6	4		WAQAAVQTA	418	tegument protein G75 (YP_401633.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	6	50.0	6		LPMPSASDRDGY	552	DNA polymerase catalytic subunit (YP_401712.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	5	55.6	4		MSTQRRDPY	480	single-stranded DNA-binding protein (YP_401717.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	6	54.5	5		GSGPADPPAAA	217	protein BHLF1 (YP_401645.1)	94	45870
+EBV	Epstein-Barr virus (HHV-4)	panel	Herpesviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	6	66.7	3		GPADPPAAA	219	protein BHLF1 (YP_401645.1)	94	45870
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		DTSFVECLPP	31	hypothetical protein (NP_050204.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		TGEGGDNGE	190	hypothetical protein (NP_050177.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	5	55.6	4		QLAKKCANL	850	large tegument protein (NP_050212.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		TQLTTSNRTQ	640	glycoprotein O (NP_050228.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	5	62.5	3		LTTSNRTQ	642	glycoprotein O (NP_050228.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		PERGDFPKILTFALA	251	capsid protein (NP_050214.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	6	40.0	9		PFFPKRLCSTQNRKQ	107	G-protein coupled receptor fragment (NP_597817.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		ILSDRQLRCLL	58	immediate-early protein 4 (NP_050199.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		SDRQLRCLL	60	immediate-early protein 4 (NP_050199.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		IPNHPYLSL	21	hypothetical protein (NP_050186.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		LQAPGGSLF	145	putative DNA-directed RNA polymerase II (NP_050176.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		LDFSRDYENV	241	immediate-early protein 6 (NP_050198.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		LRDDYKYYE	879	hypothetical protein (NP_050187.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		NDDSSKQKQQT	369	large tegument protein (NP_050212.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	6	46.2	7		FISGPSGRAVVGK	465	DNA polymerase (NP_050219.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		ISGPSGRAV	466	DNA polymerase (NP_050219.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	5	62.5	3		STVTLNMN	314	hypothetical protein (NP_050236.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		GEFAVCEYSGW	323	putative membrane glycoprotein (NP_050201.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		QGWPADSSL	78	putative DNA-directed RNA polymerase II (NP_050176.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	6	54.5	5		RFFVDNGFLSF	225	DNA polymerase (NP_050219.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		SAFCLSFSLA	165	hypothetical protein (NP_050182.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	5	55.6	4		PAEAQSNTG	422	antigenic virion protein (NP_050192.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	6	50.0	6		ESFMVDQDRKKY	91	transport/capsid assembly (NP_050221.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	6	66.7	3		MVDQDRKKY	94	transport/capsid assembly (NP_050221.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		LWTCRDPDTAF	197	putative DNA-directed RNA polymerase II (NP_050176.1)	104	45484
+HHV6B	Human herpesvirus 6B	panel	Herpesviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		TCRDPDTAF	199	putative DNA-directed RNA polymerase II (NP_050176.1)	104	45484
+HHV7	Human herpesvirus 7	panel	Herpesviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		IQSFKGNLMF	247	envelope glycoprotein O (YP_073787.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	5	55.6	4		QSFKGNLMF	248	envelope glycoprotein O (YP_073787.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	5	55.6	4		APSKSRLRF	422	protein U55B (YP_073797.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		RENTTVTFTP	48	DNA polymerase processivity subunit (YP_073767.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		FTRSTQTS	240	protein UL38 (YP_073759.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		GNTCKRKKRNIFKQP	289	tegument protein UL43 (YP_073765.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	6	40.0	9		GFFDKSLYYVSSNLQ	100	tegument protein UL43 (YP_073765.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		TVSCDQMPPNL	266	protein UL31 (YP_073751.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		VEYTLPNVL	586	ribonucleotide reductase subunit 1 (YP_073768.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		IPVYNGLFL	670	ribonucleotide reductase subunit 1 (YP_073768.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		SQRHGSSSN	878	major capsid protein (YP_073799.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	6	60.0	4		KEFSEEFENA	378	large tegument protein (YP_073771.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		LEDDVLYYI	120	protein UL28 (YP_073749.2)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		SINGNTPRQQS	576	tegument protein UL35 (YP_073755.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		SVNEMLNMYVGAL	721	ribonucleotide reductase subunit 1 (YP_073768.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		VASPPASAT	201	protein DR1 (YP_073744.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	5	62.5	3		TEVTKNNT	226	protein U55B (YP_073797.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		STNVEEGASSD	84	regulatory protein IE1 (YP_073824.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		VASPPASAT	201	protein DR1 (YP_073744.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	6	54.5	5		KKNPLSGCLSF	760	single-stranded DNA-binding protein (YP_073781.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		LFFKLDGKLK	845	protein UL28 (YP_073749.2)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	5	55.6	4		SMQASQQTS	289	envelope glycoprotein O (YP_073787.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		LPNAEIQDFDSG	689	tegument protein pp150 (YP_073752.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		MDLIDYDVC	1	protein UL27 (YP_073748.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		SPVPEVYWTTF	33	tegument protein UL23 (YP_073746.1)	86	41001
+HHV7	Human herpesvirus 7	panel	Herpesviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		WPAAHNTCF	75	protein DR1 (YP_073744.1)	86	41001
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	6	60.0	4		SMSFEVNLGR	63	nuclear protein UL24 (NP_040158.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	6	66.7	3		MSFEVNLGR	64	nuclear protein UL24 (NP_040158.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	6	66.7	3		KPAKKVLKF	366	large tegument protein (NP_040145.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		RDLPTPTRDW	31	tegument protein VP11/12 (NP_040135.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	5	62.5	3		ITASTLKW	147	deoxyribonuclease (NP_040170.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		THSGFRSAVQNLKLT	264	DNA polymerase processivity subunit (NP_040139.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	6	40.0	9		GFRSAVQNLKLTRDE	267	DNA polymerase processivity subunit (NP_040139.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		TYSDFVNKPVL	373	helicase-primase primase subunit (NP_040129.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		SVYALPYNA	381	tegument protein VP13/14 (NP_040134.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		LILFGILTL	101	membrane protein UL56 (YP_053044.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		LQAVTYSDF	369	helicase-primase primase subunit (NP_040129.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		FTLSVWFENL	71	DNA packaging protein UL33 (NP_040148.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LISPTSYSL	153	envelope glycoprotein K (NP_040128.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	7	63.6	4		TYNGSEQNTST	83	tegument protein VP13/14 (NP_040134.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	7	53.8	6		RRAMPSGMAGFGR	965	DNA polymerase catalytic subunit (NP_040151.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		RAMPSGMAG	966	DNA polymerase catalytic subunit (NP_040151.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	5	62.5	3		TTVTFRKN	648	tegument protein VP11/12 (NP_040135.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		SAECWTGASEA	152	nuclear protein UL55 (NP_040126.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		ECWTGASEA	154	nuclear protein UL55 (NP_040126.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		RFISFFGSLLE	254	capsid triplex subunit 1 (NP_040143.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		RFISFFGSLL	254	capsid triplex subunit 1 (NP_040143.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	5	55.6	4		RAQALARTY	70	tegument protein UL51 (NP_040130.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		LKAVTRQDERVY	48	ribonucleotide reductase subunit 1 (NP_040142.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		SFWKDRDDA	734	tegument protein VP13/14 (NP_040134.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	6	54.5	5		TPLPAFKPGAE	437	DNA packaging tegument protein UL17 (NP_040166.1)	73	37717
+VZV	Varicella-zoster virus (HHV-3)	panel	Herpesviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		VRADHPYAK	362	transactivating tegument protein VP16 (NP_040133.1)	73	37717
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	6	60.0	4		QLSFGGPLGP	103	tegument protein UL16 (YP_081541.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	6	66.7	3		LSFGGPLGP	104	tegument protein UL16 (YP_081541.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	5	55.6	4		QPAARRLLD	9	protein RL9A (YP_004940330.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	6	60.0	4		IVTTTSTVTD	151	membrane glycoprotein UL8 (YP_081468.2)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	5	62.5	3		TTTSTVTD	153	membrane glycoprotein UL8 (YP_081468.2)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		NPMFFNVPRWNTKLY	182	envelope glycoprotein O (YP_081522.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	6	40.0	9		ALRADMLEFGLRNCQ	753	ribonucleotide reductase subunit 1 (YP_081503.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	6	54.5	5		TMRDYQRPMVQ	136	tegument protein vICA (YP_081495.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		SIWILTYVL	37	protein RL9A (YP_004940330.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		GPQGGNVTL	45	membrane glycoprotein UL8 (YP_081468.2)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		STAFGGSVF	2160	large tegument protein (YP_081506.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		LKDSDEEENV	898	envelope glycoprotein B (YP_081514.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		LINPILYAL	300	envelope glycoprotein UL33 (YP_081492.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		TNNSSSKNCQQ	175	membrane protein RL12 (YP_081460.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	6	46.2	7		TVHNPRNYAVQLH	265	protein RL1 (YP_081455.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		VHNPRNYAV	266	protein RL1 (YP_081455.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	5	62.5	3		TTVTQGLM	10	protein UL21A (YP_081480.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		SPSAIAAASSS	317	large tegument protein (YP_081506.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	5	55.6	4		VAVPDDSSW	284	DNA polymerase catalytic subunit (YP_081513.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		RPPLWSGSLPH	86	protein UL13 (YP_081472.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		RPPLWSGSLP	86	protein UL13 (YP_081472.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	5	55.6	4		HASARAQTV	787	tegument protein pp150 (YP_081491.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	6	50.0	6		TCGQVGPDVDVY	369	DNA polymerase catalytic subunit (YP_081513.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	5	55.6	4		VVWQRYDIY	63	membrane glycoprotein RL11 (YP_081459.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	6	54.5	5		TPTPVNPSTAP	596	tegument protein pp150 (YP_081491.1)	169	63799
+CMV	Cytomegalovirus (HHV-5)	panel	Herpesviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	6	66.7	3		VPLYPPTLF	183	single-stranded DNA-binding protein (YP_081516.1)	169	63799
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		TSSFSGNAPR	125	nuclear protein UL3 (YP_009137077.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	5	55.6	4		SSFSGNAPR	126	nuclear protein UL3 (YP_009137077.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		QPAAARTAP	276	ubiquitin E3 ligase ICP0 (YP_009137074.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		NVILGSTETT	117	nuclear egress membrane protein (YP_009137109.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		NGTSGRTP	170	envelope glycoprotein L (YP_009137075.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		MLCGFSPALLAKMLF	453	single-stranded DNA-binding protein (YP_009137104.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	6	40.0	9		GFSPALLAKMLFYLE	456	single-stranded DNA-binding protein (YP_009137104.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		HALGYQLAFVL	470	envelope glycoprotein H (YP_009137096.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		LGYQLAFVL	472	envelope glycoprotein H (YP_009137096.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		GPPPTYLTL	2837	large tegument protein (YP_009137111.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		SPTTGRSSR	618	deoxyribonuclease (YP_009137086.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		FGFSGTFRAF	511	helicase-primase helicase subunit (YP_009137079.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LCNAKLVYL	155	ubiquitin E3 ligase ICP0 (YP_009137074.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		TLVGHGYNQPP	344	tegument serine/threonine protein kinase (YP_009137087.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	6	46.2	7		HFASPDNPAVFFR	238	tegument protein VP13/14 (YP_009137122.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	6	66.7	3		VAGGSEAAV	648	transcriptional regulator ICP4 (YP_009137135.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TAVVNNIN	412	capsid portal protein (YP_009137080.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	6	54.5	5		SEAAQPDAGLW	3	membrane protein UL56 (YP_009137132.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	5	55.6	4		RAWPGVASA	360	helicase-primase subunit (YP_009137082.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	6	54.5	5		RFLPLGGSPEA	256	tegument protein VP11/12 (YP_009137121.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	6	60.0	4		RFLPLGGSPE	256	tegument protein VP11/12 (YP_009137121.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	5	55.6	4		SALATALTE	420	DNA packaging tegument protein UL17 (YP_009137091.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	6	50.0	6		PPGPVWCDRRDP	121	envelope glycoprotein C (YP_009137119.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	5	55.6	4		VVRQDRFVT	1052	major capsid protein (YP_009137093.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	7	63.6	4		TPSPADPPGGA	1121	DNA polymerase catalytic subunit (YP_009137105.1)	77	41019
+HSV1	Herpes simplex virus 1	panel	Herpesviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		SDPLPPTAF	656	helicase-primase subunit (YP_009137082.1)	77	41019
+BKV	BK polyomavirus	panel	Polyomaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		DGSVKVNLEK	504	large T antigen (YP_717940.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	3	33.3	6		RFFRDSLAR	187	VP2 (YP_717937.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		PPKKKRKVE	127	large T antigen (YP_717940.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		KVGKTWTGTK	13	agnoprotein (YP_717936.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	3	37.5	5		GKTWTGTK	15	agnoprotein (YP_717936.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		NLRGFSLKLSAENDF	62	VP1 (YP_717939.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		DFRPKIYLRKSLQNS	548	large T antigen (YP_717940.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		NKSTTALPAVK	50	agnoprotein (YP_717936.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		STTALPAVK	52	agnoprotein (YP_717936.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		ILQSGMTLL	570	large T antigen (YP_717940.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SQAVFSNRT	149	large T antigen (YP_717940.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		FGTFTGGENV	222	VP1 (YP_717939.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		YIQQYYSDL	214	VP2 (YP_717937.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	6	54.5	5		TIAPGGANQRT	279	VP2 (YP_717937.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		TVSGISSLAQVGY	87	VP2 (YP_717937.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		VASVSEAAA	12	VP2 (YP_717937.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTWTIVNA	200	VP2 (YP_717937.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		SEAAAATGFSV	16	VP2 (YP_717937.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	3	33.3	6		AAATGFSVA	19	VP2 (YP_717937.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		FIFILELLLEF	29	agnoprotein (YP_717936.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		RFFRDSLARF	187	VP2 (YP_717937.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		SRQASVKVG	7	agnoprotein (YP_717936.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		RPSMVRQVAERE	226	VP2 (YP_717937.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	3	33.3	6		MVRQVAERE	229	VP2 (YP_717937.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		YAVIAGAPGAI	68	VP2 (YP_717937.1)	6	1878
+BKV	BK polyomavirus	panel	Polyomaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		VIAGAPGAI	70	VP2 (YP_717937.1)	6	1878
+JCV	JC polyomavirus	panel	Polyomaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		DGSVKVNLER	503	hypothetical protein (NP_043512.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		GSVKVNLER	504	hypothetical protein (NP_043512.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		QPAMALQLF	117	hypothetical protein (NP_043509.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		EVPTYGTDEW	81	hypothetical protein (NP_043512.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	3	37.5	5		GITSTSEA	50	hypothetical protein (NP_043509.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		LNVNMPLERLNFELG	449	hypothetical protein (NP_043512.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		QEVTQRLDLKTPNVQ	258	hypothetical protein (NP_043509.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		TMNEYSVPRTL	528	hypothetical protein (NP_043512.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	3	33.3	6		AIAQLGYRF	93	hypothetical protein (NP_043509.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		IAQLGYRFF	94	hypothetical protein (NP_043509.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SQAVFSNRT	148	hypothetical protein (NP_043512.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		DQFMVVFEDV	467	hypothetical protein (NP_043512.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	3	33.3	6		LIFLLEFLL	29	hypothetical protein (NP_043508.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		RQRHSGLTEQT	51	hypothetical protein (NP_043508.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		TVTGGSAIAQLGY	87	hypothetical protein (NP_043509.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		VATVSEAAA	12	hypothetical protein (NP_043509.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	3	37.5	5		QTVTGGSA	86	hypothetical protein (NP_043509.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		SEAAAATGFSV	16	hypothetical protein (NP_043509.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		KEGPRASSK	324	hypothetical protein (NP_043509.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		LIFLLEFLLDF	29	hypothetical protein (NP_043508.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		RGFSKSISIS	56	hypothetical protein (NP_043511.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		VSEAAAATG	15	hypothetical protein (NP_043509.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		LPGDPDMMRYVD	333	hypothetical protein (NP_043511.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	3	33.3	6		MVRQVAQRE	229	hypothetical protein (NP_043509.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		TVSEAAAATGF	14	hypothetical protein (NP_043509.1)	6	1854
+JCV	JC polyomavirus	panel	Polyomaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	3	33.3	6		SEAAAATGF	16	hypothetical protein (NP_043509.1)	6	1854
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		PTSSSGSSSR	171	large T antigen (YP_009111421.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		TSSSGSSSR	172	large T antigen (YP_009111421.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		QPIKENLPA	92	major capsid protein VP1 (YP_009111420.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		SVPRNSSRTD	197	large T antigen (YP_009111421.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	3	37.5	5		ITVGVRLS	97	capsid protein VP2 (YP_009111419.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		ANDYFIPKTLIARFS	695	large T antigen (YP_009111421.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	4	26.7	11		QFSNFSLVASLVNQG	66	capsid protein VP2 (YP_009111419.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		QTPDWLLPLVL	206	capsid protein VP2 (YP_009111419.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		PDWLLPLVL	208	capsid protein VP2 (YP_009111419.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		IPEHIGGTL	195	capsid protein VP2 (YP_009111419.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SQNQGLLSG	182	capsid protein VP2 (YP_009111419.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		LQFSNTLTTV	257	major capsid protein VP1 (YP_009111420.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LVNQGLTYG	76	capsid protein VP2 (YP_009111419.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		LILNSRWVFQT	169	capsid protein VP2 (YP_009111419.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		SHAVYSNKTVSCF	324	large T antigen (YP_009111421.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		HAVYSNKTV	325	large T antigen (YP_009111421.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTASQNQG	179	capsid protein VP2 (YP_009111419.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		SSNASRGAPSG	122	large T antigen (YP_009111421.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		NASRGAPSG	124	large T antigen (YP_009111421.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		SNFSLVASLVN	68	capsid protein VP2 (YP_009111419.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		SNFSLVASLV	68	capsid protein VP2 (YP_009111419.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		GIEALAQLG	53	capsid protein VP2 (YP_009111419.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		LLHSVGQDIFNS	142	capsid protein VP2 (YP_009111419.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		MLKQLRDSK	110	small T antigen (YP_009111422.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	6	54.5	5		TPVPTDFPIDL	309	large T antigen (YP_009111421.1)	4	1667
+MCPyV	Merkel cell polyomavirus	panel	Polyomaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		VPTDFPIDL	311	large T antigen (YP_009111421.1)	4	1667
+KIPYV	KI polyomavirus	panel	Polyomaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		DMSCWGNLPL	20	large T antigen (YP_001111259.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		ISFSGPTGG	311	VP2/VP3 (YP_001111256.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		TPPKKKHAF	133	large T antigen (YP_001111259.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		RGRSTSRSTT	385	VP2/VP3 (YP_001111256.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	3	37.5	5		IATQVRSL	237	VP2/VP3 (YP_001111256.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		NCLTLTRKKLLTKRF	363	large T antigen (YP_001111259.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	4	26.7	11		GLAGTQLYFWAVGGQ	153	Major capsid protein VP1 (YP_001111258.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		TRPRSQVPRVQ	13	Major capsid protein VP1 (YP_001111258.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	3	33.3	6		PEYQLETGI	150	VP2/VP3 (YP_001111256.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		NPQGAGLNL	122	VP2/VP3 (YP_001111256.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		TQAVKRKQD	345	VP2/VP3 (YP_001111256.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		FDASLEFPKE	141	large T antigen (YP_001111259.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LVASYLPEL	168	VP2/VP3 (YP_001111256.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		SIAGSGAAIAT	23	VP2/VP3 (YP_001111256.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		PVIGNTTAAQDGR	56	Major capsid protein VP1 (YP_001111258.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		HAPYSGMAL	138	VP2/VP3 (YP_001111256.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTVRRNRI	393	VP2/VP3 (YP_001111256.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		LETGIPGIPDW	154	VP2/VP3 (YP_001111256.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	3	33.3	6		EALSIAGSG	20	VP2/VP3 (YP_001111256.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		FFFPISMQTFF	162	Small T antigen (YP_001111260.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		IHDKESGSSI	81	Major capsid protein VP1 (YP_001111258.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	5	55.6	4		SAAAGALTE	272	VP2/VP3 (YP_001111256.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		LPLMRRQYLVKC	27	large T antigen (YP_001111259.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		NIWQSSQVY	78	Small T antigen (YP_001111260.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		TGIPGIPDWLF	156	VP2/VP3 (YP_001111256.1)	5	1867
+KIPYV	KI polyomavirus	panel	Polyomaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		VPLSEETEF	40	Major capsid protein VP1 (YP_001111258.1)	5	1867
+WUPYV	WU polyomavirus	panel	Polyomaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		DISEGVSRGT	263	VP2/VP3 (YP_001285485.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		TMQGVGLTR	186	Small T antigen (YP_001285489.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		PPKKKKDNA	140	large T antigen (YP_001285488.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		RVHTGLSRFF	276	Major capsid protein VP1 (YP_001285487.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	3	37.5	5		LPASTPTG	103	VP2/VP3 (YP_001285485.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		LNINIPADRLNFELG	465	large T antigen (YP_001285488.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		NIPADRLNFELGVAI	468	large T antigen (YP_001285488.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		PDADTTVCYSL	87	Major capsid protein VP1 (YP_001285487.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	3	33.3	6		SDPVNAIVE	231	VP2/VP3 (YP_001285485.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		NPQGGGLNI	122	VP2/VP3 (YP_001285485.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SQAVFSNRT	164	large T antigen (YP_001285488.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		DQFTVVFEDV	483	large T antigen (YP_001285488.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		APDWILYVL	336	VP2/VP3 (YP_001285485.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		SIAGSGAAIAT	23	VP2/VP3 (YP_001285485.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		TVTQGVTAAVQGG	72	VP2/VP3 (YP_001285485.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		VADPSRNDN	212	Major capsid protein VP1 (YP_001285487.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		VTVTQGVT	71	VP2/VP3 (YP_001285485.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		LETGIPGVPDW	154	VP2/VP3 (YP_001285485.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		TAKPGRSPR	10	Major capsid protein VP1 (YP_001285487.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		AAVPLSEETEF	40	Major capsid protein VP1 (YP_001285487.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		RFFRLHFRQR	283	Major capsid protein VP1 (YP_001285487.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	3	33.3	6		GAEALSIAG	18	VP2/VP3 (YP_001285485.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		YPGMALAPIPEY	141	VP2/VP3 (YP_001285485.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	3	33.3	6		IVEQVRSFV	237	VP2/VP3 (YP_001285485.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		TALAADRPGDL	93	VP2/VP3 (YP_001285485.1)	5	1898
+WUPYV	WU polyomavirus	panel	Polyomaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		LPASTPTGS	103	VP2/VP3 (YP_001285485.1)	5	1898
+B19	Parvovirus B19	panel	Parvoviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		DTSDWEPLTH	30	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		NNSGGGLGL	606	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		QLAKLGINP	159	capsid protein 1 (YP_004928146.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		VGIMTVTMTF	710	capsid protein 1 (YP_004928146.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		IMTVTMTF	712	capsid protein 1 (YP_004928146.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		NNVLYHFVTENVKLK	105	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		EFYEKVTGTDLELIQ	25	capsid protein 1 (YP_004928146.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	6	54.5	5		VDHEYKYPYVL	380	capsid protein 1 (YP_004928146.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		HEYKYPYVL	382	capsid protein 1 (YP_004928146.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	6	66.7	3		PPQYAYLTV	408	capsid protein 1 (YP_004928146.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SSDAGESSG	189	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		FLLHTDFEQV	275	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LVDFNQYTL	236	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		VIGGPGLNPRN	85	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		SVAVPGVPVVITS	402	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		QAGPPQSAV	138	capsid protein 1 (YP_004928146.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	3	37.5	5		HFVTENVK	110	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		SSTPIPGTSSG	541	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		LTWCNAQSW	464	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		TGGPLAGCLYF	58	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		TGGPLAGCLY	58	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		VNSAEASTG	231	capsid protein 1 (YP_004928146.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		LPGMTTKGKYFR	121	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	3	33.3	6		MVKLNFTVR	439	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		EVVAASWEEAF	562	non-structural protein NS1 (YP_004928144.1)	6	2255
+B19	Parvovirus B19	panel	Parvoviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		VAASWEEAF	564	non-structural protein NS1 (YP_004928144.1)	6	2255
+HBOV1	Human bocavirus 1	panel	Parvoviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		DWSIGGIIGS	73	VP1 (YP_338088.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		TDCGGYLPH	608	NS1 (YP_338086.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		QPGGARLIE	344	NS1 (YP_338086.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		RASETSTGDI	626	NS1 (YP_338086.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	3	37.5	5		VCTSPDNW	227	NS1 (YP_338086.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		EYKRFRPKAMQVKIY	246	VP1 (YP_338088.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	7	46.7	8		RFRPKAMQVKIYNLQ	249	VP1 (YP_338088.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		CISSYSKPDVC	218	NS1 (YP_338086.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		SSYSKPDVC	220	NS1 (YP_338086.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		LPGYRYLGP	13	VP1 (YP_338088.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		GGWVGGSHF	170	VP1 (YP_338088.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		FTFNFDCEWV	370	VP1 (YP_338088.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		LRDQLLYKG	510	VP1 (YP_338088.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		TTNQSGKSQRC	208	VP1 (YP_338088.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	6	46.2	7		VIPGPQTMAYGGR	268	NS1 (YP_338086.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		IPGPQTMAY	269	NS1 (YP_338086.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	3	37.5	5		GGVTGGNM	178	NS1 (YP_338086.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		GEHAYPNASHP	290	VP1 (YP_338088.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		HAYPNASHP	292	VP1 (YP_338088.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		RPFEPEEADIF	156	NS1 (YP_338086.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		PFFLLENSDH	350	VP1 (YP_338088.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	3	33.3	6		KAVYMATTT	80	NS1 (YP_338086.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	3	25.0	9		GNMQILQYRDRR	183	NS1 (YP_338086.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	3	33.3	6		QILQYRDRR	186	NS1 (YP_338086.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		TPTYHVDPTGA	640	VP1 (YP_338088.1)	4	2071
+HBOV1	Human bocavirus 1	panel	Parvoviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	3	33.3	6		IRAFSQPAF	8	NS1 (YP_338086.1)	4	2071
+TTV1	Torque teno virus 1	panel	Anelloviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		DTNYPGPLGG	109	VP1 (NP_817122.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		TSDVVSLAR	158	VP2 (NP_817121.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		RGAKRKLTF	138	VP3 (NP_817120.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		RGKTRSRRKA	221	VP2 (NP_817121.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		TTTTTVTM	350	VP1 (NP_817122.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		PTKGFVPYSLNFGNG	515	VP1 (NP_817122.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	6	40.0	9		GFVPYSLNFGNGKMP	518	VP1 (NP_817122.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		TKSRYQPYLVT	208	VP3 (NP_817120.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		SRYQPYLVT	210	VP3 (NP_817120.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	3	33.3	6		SPPVGRLAA	155	VP3 (NP_817120.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SQAPQTSPP	149	VP3 (NP_817120.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	3	30.0	7		PQSSSSDESP	211	VP2 (NP_817121.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	3	33.3	6		LPLRRLPAL	59	VP3 (NP_817120.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		TANPGSQTQTP	189	VP3 (NP_817120.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	4	30.8	9		SSILSSHAAMCGC	18	VP3 (NP_817120.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	3	33.3	6		VAHFNHLAS	34	VP3 (NP_817120.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTVTMLTC	353	VP1 (NP_817122.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		SIWLSPGRSYF	413	VP1 (NP_817122.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		GKMPGGSSN	529	VP1 (NP_817122.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		YFSPQSSSSDE	208	VP2 (NP_817121.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		YFSPQSSSSD	208	VP2 (NP_817121.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		DAVAAAETR	113	VP3 (NP_817120.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		HPGMLALDKRAR	189	VP1 (NP_817122.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	3	33.3	6		DSWYRGTVY	362	VP1 (NP_817122.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		GPEDADLLDAV	105	VP3 (NP_817120.1)	3	1346
+TTV1	Torque teno virus 1	panel	Anelloviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		IPAKKPTPR	124	VP2 (NP_817121.1)	3	1346
+HADV_C	Human adenovirus C	panel	Adenoviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		DFSAVRNLLE	9	control protein E1B 19K (NP_040510.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		KKHGGNLVF	1035	DNA polymerase (NP_040516.2)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	5	55.6	4		APPKKRLRR	41	single-stranded DNA-binding protein (NP_040527.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		VTQTTLTRTL	1152	DNA polymerase (NP_040516.2)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	5	62.5	3		QTTLTRTL	1154	DNA polymerase (NP_040516.2)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		DNEAFRDALLNIVEP	223	encapsidation protein 52K (NP_040519.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		RPDCKYKISKLVNIR	180	control protein E1B 55K (NP_040511.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		TDFKYQYLKVM	485	DNA polymerase (NP_040516.2)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		SCSSLNYQL	154	encapsidation protein IVa2 (NP_040515.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		IPQSGTLRP	233	encapsidation protein IVa2 (NP_040515.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		SSAASRSSA	87	capsid protein IX (NP_040514.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		YQFEYESLLR	84	protease (NP_040526.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		SRDTYLGHL	249	capsid protein precursor pIIIa (NP_040520.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	6	54.5	5		NGNGSGDNGDT	444	hexon (NP_040525.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	6	46.2	7		SRPGPSGMNVVQV	67	control protein E1B 55K (NP_040511.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		RPGPSGMNV	68	control protein E1B 55K (NP_040511.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	6	75.0	2	moderate	TTVIQNND	93	penton base (NP_040521.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		FAFLSPLASSA	79	capsid protein IX (NP_040514.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	5	55.6	4		FLSPLASSA	81	capsid protein IX (NP_040514.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		AQAPLSGETIT	177	hexon (NP_040525.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		AQAPLSGETI	177	hexon (NP_040525.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		GSQAAAAAG	51	control protein E1B 55K (NP_040511.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		LPGVFTVDADPP	735	DNA polymerase (NP_040516.2)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		LVNKLRDSY	591	DNA polymerase (NP_040516.2)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		TPGRAAAAVAF	85	control protein E1B 19K (NP_040510.1)	38	11774
+HADV_C	Human adenovirus C	panel	Adenoviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		VDADPPDET	741	DNA polymerase (NP_040516.2)	38	11774
+HADV_B	Human adenovirus B1	panel	Adenoviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		RFWFGGDLAR	29	control protein E1B 19K (YP_002213766.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	5	55.6	4		FWFGGDLAR	30	control protein E1B 19K (YP_002213766.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	5	55.6	4		QPFKITRNF	435	DNA polymerase (YP_002213831.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		RVLTRSTTSG	86	control protein E1B 55K (YP_002213767.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	5	62.5	3		ETTLTRTL	1149	DNA polymerase (YP_002213831.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		VNEGVKAASDVFKLD	140	control protein E1A (YP_002213765.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	6	40.0	9		GSLEATLNFLLTNRS	292	capsid protein precursor pIIIa (YP_002213773.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		VVSDEQLSRWL	338	hexon assembly protein 100K (YP_002213782.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		SDEQLSRWL	340	hexon assembly protein 100K (YP_002213782.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		IPQSGTLRP	233	encapsidation protein IVa2 (YP_002213830.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		VQAHGAGSF	4	DNA polymerase (YP_002213831.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		FTFSYIREDD	310	fiber (YP_002213796.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		LILCYLYTP	120	membrane glycoprotein E3 CR1-alpha (YP_002213787.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		ERNPSGNNSRT	103	control protein E1B 55K (YP_002213767.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		SRPGPSGGGVADL	68	control protein E1B 55K (YP_002213767.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		RPGPSGGGV	69	control protein E1B 55K (YP_002213767.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	6	75.0	2	moderate	TTVVQNND	93	penton base (YP_002213774.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		ARRAASGASSG	136	core protein precursor pVII (YP_002213775.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	5	55.6	4		RAASGASSG	138	core protein precursor pVII (YP_002213775.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		TFIPQSGTLRP	231	encapsidation protein IVa2 (YP_002213830.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		TFIPQSGTLR	231	encapsidation protein IVa2 (YP_002213830.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	6	66.7	3		SAQAGAVQG	118	protein 13.6K (YP_002213771.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		LPGIFTIDADPP	730	DNA polymerase (YP_002213831.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		RVLNDRDRW	430	encapsidation protein IVa2 (YP_002213830.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		PVQPFDPPTLH	36	control protein E1A (YP_002213765.1)	39	11582
+HADV_B	Human adenovirus B1	panel	Adenoviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		QPFDPPTLH	38	control protein E1A (YP_002213765.1)	39	11582
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		ETSIESFLGR	638	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	5	55.6	4		TSIESFLGR	639	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		TPADKSDVF	2058	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		YVITDQTRDE	629	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		ITDQTRDE	631	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		IAKSFRPCDVNIKIG	1358	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	6	40.0	9		SFRPCDVNIKIGNAK	1361	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		TSSDNKRPSDD	230	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		ATLILPYVN	269	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		HTQEGVLTQ	566	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		RQNVGTHST	7	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		VIFSYNFKLD	2033	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LKIDYLTKL	1144	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		LTPGSGQFLTT	342	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		TNVGPSSMFVHVG	864	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		NVGPSSMFV	865	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		THSTQNSV	12	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		KDAASSGASRL	34	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		AASSGASRL	36	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		HFLGRSGYTIH	168	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		HFLGRSGYTI	168	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		PALDAAETG	606	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		PGAPVPEKRDDY	726	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		PVPEKRDDY	729	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		SSVPFIPPMAD	1291	genome polyprotein (NP_042288.1)	1	2164
+HRV_A	Rhinovirus A (HRV-89)	panel	Picornaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		VPFIPPMAD	1293	genome polyprotein (NP_042288.1)	1	2164
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		QNMFFHSLGR	163	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		NMFFHSLGR	164	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		QLRKKLELF	678	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		RFYTLDSKTW	131	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		ITDSLETL	1420	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	4	26.7	11		KTWTTGSKGWCWKLP	138	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		GQVIARHKVREFNIN	1720	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		TTDDRQSPSAL	346	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		DDRQSPSAL	348	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		ISQTVALTE	559	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SGCSGTSIF	2006	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		TQKSGSHENQ	7	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		LIVSYPYEL	2048	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	6	54.5	5		TLPGSGQFLTT	337	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		SANYSSNLVVQAM	706	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		IAEHFNSAV	1246	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTYTKNGK	1352	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		SMYTGPALSSA	446	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		FLPPMASLD	1299	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		YYTHWSGSLRF	434	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		YYTHWSGSLR	434	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		SAQLKKQYF	1707	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		LPSDSIETRTTY	613	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		AVGCDPDVF	1928	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		NSVPIDSMTRH	274	polyprotein (NP_041009.1)	1	2179
+HRV_B	Rhinovirus B (B14)	panel	Picornaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		VPIDSMTRH	276	polyprotein (NP_041009.1)	1	2179
+HRV_C	Rhinovirus C	panel	Picornaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		MGIFGQNLYH	156	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		GIFGQNLYH	157	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		GFAKWDINF	648	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		ITIGNSTITT	83	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		IGNSTITT	85	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		SPWSFLKDRLCQWLN	1056	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		GFPYVSLGVKKKDIL	1801	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		VDIDGRLVRVL	1548	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		STTLLGEVL	422	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		IPMDISNTL	412	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		HHALGRSGY	165	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	3	30.0	7		KQNVGSHENS	7	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	3	33.3	6		EWPKYLSDL	104	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		TIGNSTITTQD	84	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		KTAGPSDLFVHTA	835	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		TAGPSDLFV	836	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		DTVLQVPN	575	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		SKFTQPLAEAL	51	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		AMEIGASST	599	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		ATKFNSGCLIV	181	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		ATKFNSGCLI	181	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	3	33.3	6		GAQVSKQNV	2	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		LIHPVYSMQDVY	2069	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		PVYSMQDVY	2072	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		TKVPITISIAP	304	genome polyprotein (YP_001552411.1)	1	2144
+HRV_C	Rhinovirus C	panel	Picornaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		LPPDRKTAM	467	genome polyprotein (YP_001552411.1)	1	2144
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		SFSFGGFTFK	322	polymerase PB2 (YP_009118631.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		FSFGGFTFK	323	polymerase PB2 (YP_009118631.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		NRANQRLNP	422	polymerase PB2 (YP_009118631.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		SVITYENNTW	52	neuraminidase (YP_009118627.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		PTTSTVHY	104	polymerase PB2 (YP_009118631.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		NHLEKRIENLNKKVD	415	hemagglutinin (YP_009118626.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		GKKKQRLNKRGYLIR	206	polymerase PB1 (YP_009118628.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		YDSDEPEPRSL	393	polymerase PA (YP_009118630.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		SDEPEPRSL	395	polymerase PA (YP_009118630.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	3	33.3	6		RDQRGNVLL	505	polymerase PB2 (YP_009118631.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		TQIQTRRSF	566	polymerase PB1 (YP_009118628.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		MQFSSLTVNV	631	polymerase PB2 (YP_009118631.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LIGQGDVVL	725	polymerase PB2 (YP_009118631.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		TRSGGNTNQQK	390	nucleocapsid protein (YP_009118629.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		SFWMCSNGSLQCR	551	hemagglutinin (YP_009118626.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		ISGPDNGAV	195	neuraminidase (YP_009118627.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		VTVIKNNM	527	polymerase PB1 (YP_009118628.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		AVSADPLASLL	271	polymerase PB2 (YP_009118631.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		SADPLASLL	273	polymerase PB2 (YP_009118631.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		RFLPVAGGTGS	216	polymerase PB2 (YP_009118631.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		RFLPVAGGTG	216	polymerase PB2 (YP_009118631.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		AATALANTI	139	polymerase PB1 (YP_009118628.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		TPGGEVRNDDVD	245	polymerase PB2 (YP_009118631.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		LFQQMRDVL	599	polymerase PB2 (YP_009118631.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		AAVSADPLASL	270	polymerase PB2 (YP_009118631.1)	11	4686
+FLUA_H1N1	Influenza A H1N1pdm (A/California/07/2009)	panel	Orthomyxoviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		VSADPLASL	272	polymerase PB2 (YP_009118631.1)	11	4686
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		SFSFGGFTFK	322	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		FSFGGFTFK	323	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		NRANQRLNP	422	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		REILTKTTVD	17	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		WTTNTETG	55	polymerase PB1 (YP_308847.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		NEWGCRCNDSSDPLV	13	matrix protein 2 (YP_308840.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		SWNPKRNRSILNTSQ	665	polymerase PB1 (YP_308847.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		TSSIYIEVLHL	224	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	3	33.3	6		SDAGSDRVM	82	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		ITEIVYLTN	62	neuraminidase (YP_308842.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		PVAGGTSSI	219	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		MQFSSLTVNV	631	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LIGQGDVVL	725	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		TPNGSIPNDKP	299	hemagglutinin (YP_308839.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	4	30.8	9		SDAGSDRVMVSPL	82	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		WALGENMAP	368	polymerase PA (YP_308846.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	5	62.5	3		TGVTQNGT	144	hemagglutinin (YP_308839.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		AVSADPLASLL	271	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		SADPLASLL	273	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		RFLPVAGGTSS	216	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		RFLPVAGGTS	216	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		AATALANTI	139	polymerase PB1 (YP_308847.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		TPGGEVRNDDVD	245	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		LFQQMRDVL	599	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		AAVSADPLASL	270	polymerase PB2 (YP_308849.1)	12	4807
+FLUA_H3N2	Influenza A H3N2 (A/New York/392/2004)	panel	Orthomyxoviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		VSADPLASL	272	polymerase PB2 (YP_308849.1)	12	4807
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		ITSFRLNDLN	147	polymerase PB1 (NP_056657.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		TSFRLNDLN	148	polymerase PB1 (NP_056657.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	5	55.6	4		QPAATALNT	137	polymerase PB1 (NP_056657.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		YTIDTVIRTH	38	polymerase PB1 (NP_056657.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		IDTVIRTH	40	polymerase PB1 (NP_056657.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		NRKGFLIKRIPMKVK	195	polymerase PB1 (NP_056657.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		GFLIKRIPMKVKDRI	198	polymerase PB1 (NP_056657.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		NASDYTLKGVV	470	polymerase PB2 (NP_056658.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		SDYTLKGVV	472	polymerase PB2 (NP_056658.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		IPQLGFNTE	342	nucleoprotein (NP_056661.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SVPAGFSNF	215	polymerase PA (NP_056659.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		DFSSTETEKV	488	polymerase PB2 (NP_056658.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LFDQWGYEE	447	polymerase PB2 (NP_056658.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		TVDKLTQGRQT	118	polymerase PB1 (NP_056657.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		AVRRMLSMNVEGR	480	nucleoprotein (NP_056661.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		VDGPDNDAL	193	neuraminidase (NP_056663.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	5	62.5	3		TTVDQYNI	25	polymerase PB2 (NP_056658.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		KEYLWDGLQSS	433	polymerase PB1 (NP_056657.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		DAVSGTHSW	657	polymerase PB1 (NP_056657.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		MFNMLSTVLGV	412	polymerase PB1 (NP_056657.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		MFNMLSTVLG	412	polymerase PB1 (NP_056657.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		SAYAQLDCV	80	polymerase PB1 (NP_056657.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		LPQKVWCASGRS	283	hemagglutinin (NP_056660.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		MVRDDKTIY	157	nucleoprotein (NP_056661.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		TPRPDDGSIAG	325	neuraminidase (NP_056663.1)	10	4609
+FLUB	Influenza B (B/Lee/1940)	panel	Orthomyxoviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		GPATAQTAI	539	polymerase PB1 (NP_056657.1)	10	4609
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		DTSDEVSLNP	209	Phosphoprotein (P) (NP_044592.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		TSQKGTLHS	259	Attachment glycoprotein (G) (NP_044595.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		LWFLKRLNV	1609	Polymerase (L) (NP_044598.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		HVITSSDICP	58	non-structural protein 1 (1C) (NP_044589.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		ETTSQTTT	106	Attachment glycoprotein (G) (NP_044595.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		KNEMKRYKGLLPKDI	191	Nucleoprotein (N) (NP_044591.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	6	40.0	9		QFRKRFYNSMLNNIT	351	Polymerase (L) (NP_044598.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		TDKLIHLTNAL	31	non-structural protein 1 (1C) (NP_044589.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		SDELLHNVN	509	Fusion protein (F) (NP_044596.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		IIPYSGLLL	194	Matrix protein (M) (NP_044593.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SLAFIRKSD	502	Fusion protein (F) (NP_044596.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		SSYSYEEIND	116	Phosphoprotein (P) (NP_044592.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		FISSCLYKL	25	Attachment glycoprotein (G) (NP_044595.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		TINTTKTNIRT	235	Attachment glycoprotein (G) (NP_044595.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	4	30.8	9		SDICPNNNIVVKS	63	non-structural protein 1 (1C) (NP_044589.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		VMINSRSAV	72	Matrix protein (M) (NP_044593.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTHRQDIN	98	Nucleoprotein (N) (NP_044591.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		SLTQFPHFSSV	313	Nucleoprotein (N) (NP_044591.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	3	33.3	6		FVHVITSSD	56	non-structural protein 1 (1C) (NP_044589.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	6	54.5	5		RGESLLCSLIF	918	Polymerase (L) (NP_044598.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		RGESLLCSLI	918	Polymerase (L) (NP_044598.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		SKSAQHYTT	1094	Polymerase (L) (NP_044598.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		LCGMLLITEDAN	47	Nucleoprotein (N) (NP_044591.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	3	33.3	6		EMEQVVEVY	280	Nucleoprotein (N) (NP_044591.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		TPRNQDLYDAA	340	Nucleoprotein (N) (NP_044591.1)	10	4446
+RSV_A	Respiratory syncytial virus A	panel	Pneumoviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		VLAQMPSKF	80	Matrix protein (M) (NP_044593.1)	10	4446
+HMPV	Human metapneumovirus	panel	Pneumoviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		DILFMGNEAA	8	phosphoprotein (YP_012606.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		VSTLGNGVR	148	fusion glycoprotein precursor (YP_012608.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		TPAEKKLKP	110	phosphoprotein (YP_012606.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		DVGTTTAVTP	28	nucleoprotein (YP_012605.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		NTTSVTTK	76	small hydrophobic protein (YP_012611.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		NNLKRLPREKLKKLA	145	matrix protein M2-1 (YP_012609.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		GSILCRSLGKLVFIV	169	RNA dependent RNA polymerase (YP_012613.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		TWSHQGTRYVL	241	matrix protein (YP_012607.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		SHQGTRYVL	243	matrix protein (YP_012607.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		GPESGLLHL	296	nucleoprotein (YP_012605.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		TTAVTPSSL	32	nucleoprotein (YP_012605.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		SQFNRRFLNV	194	fusion glycoprotein precursor (YP_012608.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LFEQKVYYR	213	nucleoprotein (YP_012605.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		TALGSERVQQI	72	nucleoprotein (YP_012605.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	4	30.8	9		STALGSERVQQIL	71	nucleoprotein (YP_012605.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		VLGSSMILV	500	fusion glycoprotein precursor (YP_012608.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTVRRANR	182	nucleoprotein (YP_012605.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		SESATVEAAIS	172	matrix protein (YP_012607.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		SANPQASVS	207	attachment glycoprotein G (YP_012612.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		IILLCVGALIF	159	nucleoprotein (YP_012605.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		EMGPESGLLH	294	nucleoprotein (YP_012605.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		SAQGAAMSV	75	matrix protein (YP_012607.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		DADTVTIDNTVY	414	fusion glycoprotein precursor (YP_012608.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		TVTIDNTVY	417	fusion glycoprotein precursor (YP_012608.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		TNQDADTVTID	411	fusion glycoprotein precursor (YP_012608.1)	9	4142
+HMPV	Human metapneumovirus	panel	Pneumoviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		VPFFPETLT	587	RNA dependent RNA polymerase (YP_012613.1)	9	4142
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		ATAFSSNLGT	214	F glycoprotein (NP_604440.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	5	55.6	4		TAFSSNLGT	215	F glycoprotein (NP_604440.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		DTAKERLRH	388	nucleoprotein (NP_604433.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		RAISTSTQDH	73	phosphoprotein (NP_604435.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		ITTKTEQS	80	C' protein (NP_604434.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		YNIERDPKRTKTDGF	104	nucleoprotein (NP_604433.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		LFGPMINKNPLFQGQ	134	nucleoprotein (NP_604433.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		ERSEAQLGYVK	1221	L polymerase protein (NP_604442.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		SEAQLGYVK	1223	L polymerase protein (NP_604442.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		IPSTEKHTL	511	phosphoprotein (NP_604435.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		NQEPGDSSF	983	L polymerase protein (NP_604442.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		FQKRYEEVHP	185	C' protein (NP_604434.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		IICGILYYL	510	F glycoprotein (NP_604440.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		SINKSGGGAII	18	nucleoprotein (NP_604433.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	6	46.2	7		VVEGRWNMSSAGR	242	L polymerase protein (NP_604442.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		VAVVQNKAM	339	nucleoprotein (NP_604433.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	5	62.5	3		TTNNANNN	295	phosphoprotein (NP_604435.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		MEEAWKLAAHI	206	C' protein (NP_604434.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		NQEPGDSSF	983	L polymerase protein (NP_604442.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		MTFNLCGMLIS	367	phosphoprotein (NP_604435.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		MTFNLCGMLI	367	phosphoprotein (NP_604435.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		KAMQQYVTG	345	nucleoprotein (NP_604433.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		LGPSVTDDADKL	40	nucleoprotein (NP_604433.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		MREDIRDQY	154	C' protein (NP_604434.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		PPTPEHDATAN	306	phosphoprotein (NP_604435.1)	10	5572
+HPIV1	Human parainfluenza virus 1	panel	Paramyxoviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	3	33.3	6		VNADVKYVI	95	nucleoprotein (NP_604433.1)	10	5572
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		ITGFENNSFR	104	nucleocapsid protein (NP_598401.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		TGFENNSFR	105	nucleocapsid protein (NP_598401.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		QPEAQRLIQ	211	nucleocapsid protein (NP_598401.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		RVIPDARSTM	113	nucleocapsid protein (NP_598401.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		ITYSPRNL	175	matrix protein (NP_598403.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		NNDPVVRSRLLFFNL	42	nucleocapsid protein (NP_598401.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		VVRSRLLFFNLRIIM	46	nucleocapsid protein (NP_598401.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		YQSIRQLTYDL	898	Large protein (NP_598406.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		SIRQLTYDL	900	Large protein (NP_598406.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		IFDYTYMTL	1518	Large protein (NP_598406.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		NYAYGRSYL	348	nucleocapsid protein (NP_598401.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	3	30.0	7		RVEITGFENN	101	nucleocapsid protein (NP_598401.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		VIDNNLYYY	400	hemagglutinin-neuraminidase (NP_598405.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		RINGAIVNGIT	175	fusion protein (NP_598404.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	6	46.2	7		SVAKMAKYQQQGR	191	nucleocapsid protein (NP_598401.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		QASCSNSAT	869	Large protein (NP_598406.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTESQLNE	378	P protein (NP_599019.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		DELARPTLSST	323	P protein (NP_599019.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		LARPTLSST	325	P protein (NP_599019.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		ILFPVYGGLIS	306	hemagglutinin-neuraminidase (NP_598405.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		ILFPVYGGLI	306	hemagglutinin-neuraminidase (NP_598405.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		SALKDMHTG	101	hemagglutinin-neuraminidase (NP_598405.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		EMGGQANDTPVY	423	nucleocapsid protein (NP_598401.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	3	33.3	6		MVVRHFMTY	226	nucleocapsid protein (NP_598401.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		SPAHADPAPAS	208	P protein (NP_599019.1)	7	4923
+HPIV2	Human parainfluenza virus 2	panel	Paramyxoviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		AHADPAPAS	210	P protein (NP_599019.1)	7	4923
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		IASFGPNLLN	1621	large protein (NP_067153.2)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	5	55.6	4		ASFGPNLLN	1622	large protein (NP_067153.2)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	5	55.6	4		QIAQTRANF	1263	large protein (NP_067153.2)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	6	60.0	4		PVITYSTATE	505	hemagglutinin-neuraminidase (NP_067152.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	5	62.5	3		ITYSTATE	507	hemagglutinin-neuraminidase (NP_067152.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		NIRDRLNKRLNEKKK	473	nucleocapsid protein (NP_067148.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		DRLNKRLNEKKKQGS	476	nucleocapsid protein (NP_067148.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		QDGTVQAGLVL	200	nucleocapsid protein (NP_067148.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		DQNDKPYVL	528	fusion protein (NP_067151.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		IPLYDGLRL	80	fusion protein (NP_067151.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		NQEPGESSF	983	large protein (NP_067153.2)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		FPESSFFENG	11	matrix potein (NP_067150.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LIIQIWIVL	169	nucleocapsid protein (NP_067148.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		TFNARRQENIT	7	nucleocapsid protein (NP_067148.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		GVAVVQNRAMQQY	337	nucleocapsid protein (NP_067148.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		VAVVQNRAM	338	nucleocapsid protein (NP_067148.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	5	62.5	3		TTRFKNNN	301	hemagglutinin-neuraminidase (NP_067152.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		TESSGTQSSSW	291	phosphoprotein (NP_067149.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		NQEPGESSF	983	large protein (NP_067153.2)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		LLEPLALSLIQ	290	large protein (NP_067153.2)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		LLEPLALSLI	290	large protein (NP_067153.2)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		RAMQQYVTG	344	nucleocapsid protein (NP_067148.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		IEGKVRQSADVP	157	phosphoprotein (NP_067149.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		KVRQSADVP	160	phosphoprotein (NP_067149.1)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		MEVANDRKQAF	1597	large protein (NP_067153.2)	8	5389
+HPIV3	Human parainfluenza virus 3	panel	Paramyxoviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		VANDRKQAF	1599	large protein (NP_067153.2)	8	5389
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		DPKFASELGI	377	nucleocapsid protein (YP_008378659.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		QSTPGNLQN	47	hemagglutinin-neuraminidase (YP_008378664.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		APANYPLLF	325	nucleocapsid protein (YP_008378659.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		VNIRDSTRDD	520	nucleocapsid protein (YP_008378659.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		IRDSTRDD	522	nucleocapsid protein (YP_008378659.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		NDPQQRFTLMNFCLR	43	nucleocapsid protein (YP_008378659.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		GNRWKPLALAAFSGE	278	nucleocapsid protein (YP_008378659.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		MGSDTQLPSPS	103	phospho protein (YP_008378660.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		SDTQLPSPS	105	phospho protein (YP_008378660.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		FPLYGGLTE	315	hemagglutinin-neuraminidase (YP_008378664.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		RQAVSSSAK	57	nucleocapsid protein (YP_008378659.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		YQFGRNFLNT	350	nucleocapsid protein (YP_008378659.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		AIDPPDYTL	106	nucleocapsid protein (YP_008378659.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		TIFLKRHAQQT	1028	large protein (YP_008378665.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	4	30.8	9		LVKLKSLMSLYRR	293	nucleocapsid protein (YP_008378659.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		VAGPNYCYI	165	matrix protein (YP_008378662.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTVFHNQL	205	fusion protein (YP_008378663.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		SLAQIPGASQN	1246	large protein (YP_008378665.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		ENGPKASVW	231	matrix protein (YP_008378662.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		GKIPKSASLYF	287	matrix protein (YP_008378662.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		LIFPLYGGLT	313	hemagglutinin-neuraminidase (YP_008378664.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		AAQVTAAIG	119	fusion protein (YP_008378663.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		AEHAVCDDMDTY	152	nucleocapsid protein (YP_008378659.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		AVCDDMDTY	155	nucleocapsid protein (YP_008378659.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		TPVAGTFPRRF	360	fusion protein (YP_008378663.1)	7	4942
+HPIV4	Human parainfluenza virus 4a	panel	Paramyxoviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		APANYPLLF	325	nucleocapsid protein (YP_008378659.1)	7	4942
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		YTSTSGNLLG	473	surface glycoprotein (NP_073551.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	5	55.6	4		TSTSGNLLG	474	surface glycoprotein (NP_073551.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		YLAKAMLDF	2936	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		DVNTHSTRLT	4421	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		IFTSACTR	2625	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		PNGPFDALFLSFKLM	3518	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	6	40.0	9		PFDALFLSFKLMGIG	3521	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	6	54.5	5		IPADYILPLVL	1572	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	6	66.7	3		ADYILPLVL	1574	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		INGYRYFTL	203	surface glycoprotein (NP_073551.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		AQAVRRYSE	25	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		NFTSYGFSNV	518	surface glycoprotein (NP_073551.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		YTDQYLCGA	115	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		TIRGSFINGAC	3099	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	6	46.2	7		SVDTILNMARNGV	3731	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		VAFSFFMAV	77	membrane protein (NP_073555.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	5	62.5	3		TTVTCENL	609	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		SEISANGCSTI	14	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		FFSCFASSI	1145	surface glycoprotein (NP_073551.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	6	54.5	5		RPFMLHGWLVF	81	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		RPFMLHGWLV	81	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		STIAQAVRR	22	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		VPGNVKPGDAVI	276	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		MYDGDRFVK	1874	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		ASVPEKFLNAF	452	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_229E	Human coronavirus 229E	panel	Coronaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		VPEKFLNAF	454	replicase polyprotein 1ab (NP_073549.1)	8	12928
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		GESFGKSLGN	1584	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	5	55.6	4		ESFGKSLGN	1585	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	5	55.6	4		QEAIKVLNQ	1271	spike surface glycoprotein (YP_009555241.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		KTFTTSTALA	661	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		FTTSTALA	663	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		PKNSFEALMLNFKLL	3808	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	7	46.7	8		SFEALMLNFKLLGIG	3811	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		VPSDVSLTYLL	1397	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		SDVSLTYLL	1399	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		LPQGGYVAD	1124	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		SFNVGRSIV	1446	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	6	60.0	4		FQKGKEFEFV	72	nucleocapsid protein (YP_009555245.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		LPRWYFYYL	120	nucleocapsid protein (YP_009555245.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		CKCGVKQEQRT	1749	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		WVIPLAFMPVQSR	170	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		LAVPVNMRV	6855	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	5	62.5	3		ATVLQNNE	4118	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		SQFDSLGVSSN	6606	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		FLALTASSI	3026	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		RRICLSGRKIY	734	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		RRICLSGRKI	734	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	5	55.6	4		SAVAQAFQS	701	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		GESMVLIDVDVP	1180	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	5	55.6	4		MVLIDVDVP	1183	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		SDVLYQPPTAS	3229	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_OC43	Human coronavirus OC43	panel	Coronaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		VLYQPPTAS	3231	ORF1ab polyprotein (YP_009555238.1)	10	14464
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	7	70.0	3	moderate	DLSFDKNLGR	1520	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	6	66.7	3		LSFDKNLGR	1521	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		QLCAKILPF	70	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		DVIITSTSAG	283	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		IITSTSAG	285	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		NMWEFRDYFNNNTDS	131	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	6	40.0	9		PFDALWLSFKLLGIG	3496	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		VDSIVQKCYEL	1091	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		GDYNLSSVL	849	spike protein (YP_003767.1)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		ILQYLKPTF	1686	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		SRASSRSST	148	nucleocapsid protein (YP_003771.1)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		KDLSYEQQNV	162	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		FIDDYYGYL	4779	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	6	54.5	5		FINGCGRNVQG	5870	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	6	46.2	7		IVATPSTTIVCDR	170	membrane protein (YP_003770.1)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		VATPSTTIV	171	membrane protein (YP_003770.1)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTVTSFHG	2492	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		SVGAWDGYLSS	253	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	5	55.6	4		SGSPGDSSW	533	spike protein (YP_003767.1)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	6	54.5	5		RPLNLRGWLIF	81	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		RPLNLRGWLI	81	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		GAQKFFQFG	1894	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		NSNYVLQDFDVV	93	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	5	55.6	4		YVLQDFDVV	96	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		IIMCADVPDAF	447	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_NL63	Human coronavirus NL63	panel	Coronaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		MCADVPDAF	449	ORF1ab polyprotein (YP_003766.2)	7	13050
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		YWSPQGNLGG	6704	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	5	55.6	4		WSPQGNLGG	6705	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		ARAYKHLNN	1460	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		LSMTTSTTNF	137	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		MTTSTTNF	139	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		NANGLRPPRNSFEAI	3889	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	6	40.0	9		SFEAILLNLKLLGIG	3899	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	6	54.5	5		TSSSCQLYYSL	419	spike glycoprotein (YP_173238.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		SVKQLFYVY	6344	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		VMQYGYVDC	357	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		LQAYGHYSL	244	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		EQQIYFFEGV	730	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		LPRWYFYYL	119	nucleocapsid phosphoprotein (YP_173242.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		TYAGSVWHIQT	4162	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		YVAQPTEDVVDGD	297	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		LAVPVNMRV	6942	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTSTTNFG	140	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		EELASPMKSDE	26	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		FFSLTASSI	3114	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	6	54.5	5		DFFSLTASSIF	3113	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		DFFSLTASSI	3113	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		SAKNRARTV	5002	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		QPTEDVVDGDVV	300	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		GVCQVGDCY	1421	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		NDVLYQPPTAS	3317	ORF1ab polyprotein (YP_173236.1)	9	14455
+COV_HKU1	Human coronavirus HKU1	panel	Coronaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		VLYQPPTAS	3319	ORF1ab polyprotein (YP_173236.1)	9	14455
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		DNNFCGPDGY	187	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		NSFSGYLKL	1026	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		KLAKKFDTF	258	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		SVITPGTNTS	596	surface glycoprotein (YP_009724390.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		ITISSFKW	2309	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		KCYGVSPTKLNDLCF	378	surface glycoprotein (YP_009724390.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		GHVMVELVAELEGIQ	82	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		TILDGISQYSL	568	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		SDVLLPLTQ	3195	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		STQYEYGTE	944	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	6	66.7	3		SQASSRSSS	180	nucleocapsid phosphoprotein (YP_009724397.2)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		FDESGEFKLA	908	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	6	66.7	3		LIDFYLCFL	6	ORF7b (YP_009725318.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		QQDGSEDNQTT	990	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	6	46.2	7		RVAGDSGFAAYSR	186	membrane glycoprotein (YP_009724393.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		VAGALNKAT	1071	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTVASLIN	1429	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		HEIAWYTERSE	236	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		FAWWTAFVT	6985	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		ASCTLSEQLDF	211	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		TTFHLDGEVI	1542	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		LGPLSAQTG	3513	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	6	50.0	6		LSLPVLQVRDVL	16	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	5	55.6	4		PVLQVRDVL	19	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		TCVGSDNVTDF	5420	ORF1ab polyprotein (YP_009724389.1)	12	14149
+SARS2	SARS-CoV-2 (Wuhan-Hu-1)	panel	Coronaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		KHADFDTWF	2830	ORF1ab polyprotein (YP_009724389.1)	12	14149
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		GTTFVGELGE	1413	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	5	55.6	4		TTFVGELGE	1414	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	5	55.6	4		QKVKKRLLW	1457	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		IVITTNAPGP	652	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	3	37.5	5		TTVSGPEW	165	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		NNNSSIKSRLLARLK	19	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		DFDPARLTQILKEYG	1632	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		PDFHLQGPEDL	393	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		GDCGAPYVH	1237	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		IADSAPLTL	627	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SEATGLSPD	1602	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		FQQDSKLEMV	313	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	3	33.3	6		LIGQVPAPK	56	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		TAWDSTQNRQI	1524	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		LVHGQSGMLLTGA	1213	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		VAAFTRMAR	772	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TSVTQLVR	484	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		SKDVVPTAASS	5	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		CVPNGASSG	483	VP1 (NP_056821.2)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		PFKDLLGKLKP	337	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		PFKDLLGKLK	337	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		AALAKAQAE	538	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		LFGIFWNPPDVS	374	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		MRIQGRLVH	1207	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		GQVPAPKATSV	58	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GI	Norovirus GI (Norwalk)	panel	Caliciviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		VPAPKATSV	60	nonstructural polyprotein (NP_056820.1)	3	2531
+NORO_GII	Norovirus GII	panel	Caliciviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		DTMKVGNQLK	728	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		VSFGSGWGF	1018	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		QASKANLMF	1332	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		KVKNTSVQTN	780	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		LTQTTRTD	334	VP1 (YP_009518842.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		NNNNDKEKSSGEGLF	15	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		IFRPTRKQRKEERAT	954	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		GDYELQGPEDL	327	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		DVRQLEPVL	147	VP1 (YP_009518842.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		QPQNGRCTT	260	VP1 (YP_009518842.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		IQANSMFSF	1521	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		FSFYGDDEIV	1527	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LQDRDRYYE	922	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		TTQLSPVNICT	275	VP1 (YP_009518842.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	4	30.8	9		ELQGPEDLAVELV	330	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		LQGPEDLAV	331	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		VAVACNNN	10	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		REVARKVASTL	508	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	3	33.3	6		FSVPPLSLR	110	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		NIFLCSLSTLF	258	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		TFAGIVESLI	294	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		YAQACASLD	1295	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		LFGVFWTPPDVS	308	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	5	55.6	4		EYLQDRDRY	920	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		VPQPDVANTAF	100	nonstructural polyprotein (YP_009518841.1)	3	2507
+NORO_GII	Norovirus GII	panel	Caliciviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		GEAFPYTAF	195	nonstructural polyprotein (YP_009518841.1)	3	2507
+ROTA	Rotavirus A	panel	Reoviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		ITSYDGCLGL	522	VP3 (YP_002302228.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	5	55.6	4		TSYDGCLGL	523	VP3 (YP_002302228.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		ITAANRLNL	627	VP2 (YP_002302226.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	6	60.0	4		RVLTTATITL	216	VP6 (YP_002302229.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		ITGSLRLF	744	VP1 (YP_002302227.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		ENIYPLIKRLIWSLF	369	NSP1 (YP_002302219.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	6	40.0	9		YRRLTALNRRLCNIG	11	NSP1 (YP_002302219.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		TVSDAHLPIQY	886	VP1 (YP_002302227.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		SDAHLPIQY	888	VP1 (YP_002302227.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		IGQYGPLLS	152	outer capsid spike protein VP4 (YP_002302230.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SSAQSRPSS	93	NSP5 (YP_002302224.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		TLFHYYNVNV	601	VP2 (YP_002302226.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		LIDLALLPL	517	outer capsid spike protein VP4 (YP_002302230.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		TIKVCPLNTQT	192	VP7 (YP_002302222.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		SFIYNSQSAVQIP	13	VP1 (YP_002302227.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		VDGDDNYAV	628	VP1 (YP_002302227.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		ITVRINNT	486	VP3 (YP_002302228.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		SVKRIPGKSSS	125	NSP3 (YP_002302220.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		KRIPGKSSS	127	NSP3 (YP_002302220.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		GLFGLSISLAS	530	VP3 (YP_002302228.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		GLFGLSISLA	530	VP3 (YP_002302228.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		PEQAKKQTK	115	VP2 (YP_002302226.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		LSKIDWRIRDMY	334	NSP1 (YP_002302219.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		RVQADRNVV	233	VP2 (YP_002302226.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		LDITADPTTAP	269	VP7 (YP_002302222.1)	12	5897
+ROTA	Rotavirus A	panel	Reoviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		ITADPTTAP	271	VP7 (YP_002302222.1)	12	5897
+ASTV	Human astrovirus	panel	Astroviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		DFNFGSTMAR	15	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		TVEVSNNGR	10	capsid precursor protein (NP_059444.1)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		LPAPHRLTK	851	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		VVATVPTRIK	398	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		TTTPTSTS	165	capsid precursor protein (NP_059444.1)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		HLSGFRMAVLPTIPF	278	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		GFRMAVLPTIPFHTT	281	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		TDSTPAYPKMN	1055	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		RDSGLPARL	1405	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		IPFHTTMTL	290	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SQSRGRDKS	27	capsid precursor protein (NP_059444.1)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		KQSEYEQQVV	788	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	3	33.3	6		LDVQFLQHE	128	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		RGNPSGQFSTT	1242	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	4	30.8	9		AVRQILNFAFVPR	220	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		MASKSNKQV	1	capsid precursor protein (NP_059444.1)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	5	62.5	3		TTGFQVNN	544	capsid precursor protein (NP_059444.1)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		GLFLVELASEW	243	capsid precursor protein (NP_059444.1)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		FLVELASEW	245	capsid precursor protein (NP_059444.1)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		ANFPLLGHLPI	954	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		ANFPLLGHLP	954	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		LAVHQTNTG	563	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		LPKFVRNSPQAY	35	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	3	33.3	6		MVCYYFDNL	305	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		GKVVATVPTRI	396	Non-structural protein (NP_059443.2)	2	2217
+ASTV	Human astrovirus	panel	Astroviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		VVATVPTRI	398	Non-structural protein (NP_059443.2)	2	2217
+SAPV	Sapovirus GI	panel	Caliciviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		DTSLGGRPST	2057	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		TSPLAGLVR	439	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		QRFGKTSNF	495	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	6	60.0	4		RFIPTLTRTL	87	hypothetical protein (YP_077279.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	5	62.5	3		IPTLTRTL	89	hypothetical protein (YP_077279.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		NLWLQVPKTLVEQST	671	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		GLLPRRLGYSRGNRV	1957	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		MVSKPFKPIVL	1	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		SKPFKPIVL	3	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		NPQYLQLAW	239	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SDEVNGSAF	1089	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		PQQHYEEEAP	1046	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LKGGVLYCL	1439	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		TIIGRGGVRDE	1023	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	4	30.8	9		LVEVYSNLFDDLR	277	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		VTFPSNPEC	844	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		ELETQANN	452	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		KEQAGPLQNLW	663	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		PAPPTAKSG	137	hypothetical protein (YP_077280.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		EQFPLSLADLA	98	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		EQFPLSLADL	98	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		SAAAQREYM	761	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		SPLIHIQDRSIN	774	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	3	33.3	6		AVQQEMGVN	231	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		TSVIPDNPRAA	572	polyprotein (YP_077278.1)	3	2606
+SAPV	Sapovirus GI	panel	Caliciviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		VPLEPETRF	2245	polyprotein (YP_077278.1)	3	2606
+EVA	Enterovirus A	panel	Picornaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		IVSTGGNGLV	985	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		VSTGGNGLV	986	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		TPADKSPCF	2087	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		LTIGNSTITT	85	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		IGNSTITT	87	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		RAWIPRPLRNQPYLF	824	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		IPRPLRNQPYLFKTN	827	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		TTQPGQVGAVL	219	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		AVLTNPYVL	227	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		VVQYGFLNL	1667	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		MLAVGHSEP	961	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		TQRSGSHENS	7	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LVPQLLQYM	711	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		ASEGSTINYTT	19	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	4	30.8	9		GSHENSNSASEGS	11	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		VERHLNRAV	1491	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	5	62.5	3		TTGTQNTD	662	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		LQAAETGASSN	612	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	5	55.6	4		AAETGASSN	614	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		RFFTLDTKSWA	131	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		RFFTLDTKSW	131	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		VALAAAQDN	538	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		SKGWYWKFPDVL	144	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		MVAYGDDVL	2055	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	6	54.5	5		GGVPADRLTAM	463	genome polyprotein (NP_042242.1)	1	2193
+EVA	Enterovirus A	panel	Picornaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	6	66.7	3		VPADRLTAM	465	genome polyprotein (NP_042242.1)	1	2193
+EVB	Enterovirus B	panel	Picornaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		LMSTGKVLGI	1688	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		MSTGKVLGI	1689	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		TPADKGDCF	2076	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		RSITLGNSTI	83	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	3	37.5	5		ITLGNSTI	85	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		KAWVPRPPRLCQYEK	813	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	4	26.7	11		GAHETGLNASGNSII	11	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		TCRFYTLESVQ	129	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		SEGSSPYVP	303	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		NMQYHYLGR	164	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SGCSGTSIF	2009	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		AIFSKYIGNV	1777	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	3	33.3	6		LFGQNMQYH	160	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		QMGLFGQNMQY	157	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		SFEGPGLVEVQES	923	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	3	33.3	6		KDAASNSAN	34	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		YYATYNNN	645	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	3	27.3	8		SMPALNSPSAE	64	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	3	33.3	6		WKLPDALSQ	149	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		RSITLGNSTIT	83	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		RSITLGNSTI	83	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		SANRQDFTQ	40	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		VPSDTMQTRHVK	613	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	3	33.3	6		MVRVADTVS	581	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		RYVVEDEYTAA	509	genome polyportein (NP_040958.1)	1	2182
+EVB	Enterovirus B	panel	Picornaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		VVEDEYTAA	511	genome polyportein (NP_040958.1)	1	2182
+EVD68	Enterovirus D68	panel	Picornaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		TTSPGFNDIM	207	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		TSPGFNDIM	208	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	5	55.6	4		QGKKKRDIF	1850	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		PVVPLGTRTM	282	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		IKTATDTV	569	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		NTKSFVQLRRKLELF	660	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		GYSDRVLQLKLGNSA	77	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		TDRFYTLRSVK	129	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		SDRVLQLKL	79	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		NVQYHYLYR	164	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SGSSGTSIF	2015	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	3	30.0	7		RQQTGTHENA	7	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		WIEQNEYYP	941	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		NIGMFGQNVQY	157	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		IVIHPSNELVVEK	1481	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	5	55.6	4		VIHPSNELV	1482	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	5	62.5	3		TTVAVNGN	687	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		SFEYKNHASSS	637	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		FIPPMASLE	1306	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		HYLYRSGFLIH	168	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		HYLYRSGFLI	168	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	3	33.3	6		GAQVTRQQT	2	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		LPWMNVAPMDFP	259	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		LLWLDTDVM	998	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		VMTPADKGTSF	2080	polyprotein (YP_009505605.1)	1	2188
+EVD68	Enterovirus D68	panel	Picornaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		TPADKGTSF	2082	polyprotein (YP_009505605.1)	1	2188
+HPEV	Human parechovirus 1	panel	Picornaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		DSSDLGQLKV	236	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		TSAIGILLL	1469	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		DKLKSMLNF	1446	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		REGTESTKTI	1649	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		IPYSFSTW	480	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		MEAFIEPKPSVFKCF	1411	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		TFNRGRLNGFFPNSS	439	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		TQADLCIPYVA	218	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		AFTNLPHVL	203	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		IDQKGYFKW	384	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SQAMPHMST	1319	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		LPFTPDFSNV	89	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		LEDQTLDDL	1370	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		TDNASGGDILT	32	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		SVLSPSCKALMQC	989	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		GPGSMNMAN	321	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTVNTTNL	73	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	3	27.3	8		TPLSIPSGSSN	249	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	3	33.3	6		LSIPSGSSN	251	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		KFFCPTGSLVT	530	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		KFFCPTGSLV	530	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		AAQSVALVG	335	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		LLQLDFQNPRVY	269	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	3	33.3	6		VVDYDKDLE	192	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		TQHPSAPTLPF	81	polyprotein (NP_046804.1)	1	2179
+HPEV	Human parechovirus 1	panel	Picornaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		AFYDPRTAG	346	polyprotein (NP_046804.1)	1	2179
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		FMSFLTALKR	453	replication protein E1 (NP_041327.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		MSFLTALKR	454	replication protein E1 (NP_041327.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		SRAAKRRLF	119	replication protein E1 (NP_041327.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	6	60.0	4		FSITTSTDTT	133	minor capsid protein L2 (NP_041331.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	6	75.0	2	moderate	ITTSTDTT	135	minor capsid protein L2 (NP_041331.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	4	26.7	11		STWPTTPPRPIPKPS	18	cell cycle modulating protein E1^E4 (YP_009268708.1)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	4	26.7	11		VLKRKYLGSPLSDIS	85	replication protein E1 (NP_041327.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		NDSDTGEDLVD	40	replication protein E1 (NP_041327.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		DYYGLYYVH	153	regulatory protein E2 (NP_041328.1)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		IFVYIPLFL	65	transforming protein E5 (NP_041330.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SRAAKRRLF	119	replication protein E1 (NP_041327.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		FTFPNEFPFD	586	replication protein E1 (NP_041327.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		LLQQYCLYL	254	replication protein E1 (NP_041327.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		FKCVSGQNTNT	638	replication protein E1 (NP_041327.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		SVLQPPTPAETGG	167	minor capsid protein L2 (NP_041331.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	3	33.3	6		IPKPSPWAP	28	cell cycle modulating protein E1^E4 (YP_009268708.1)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	6	75.0	2	moderate	TTVTTHNN	153	minor capsid protein L2 (NP_041331.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		SELVRPFKSNK	220	replication protein E1 (NP_041327.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		KATPTTSST	486	major capsid protein L1 (NP_041332.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		GHFTLSSSTIS	179	minor capsid protein L2 (NP_041331.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		GHFTLSSSTI	179	minor capsid protein L2 (NP_041331.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	5	55.6	4		SDQDQSQTP	44	cell cycle modulating protein E1^E4 (YP_009268708.1)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		LINTVIQDGDMV	190	major capsid protein L1 (NP_041332.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		TVIQDGDMV	193	major capsid protein L1 (NP_041332.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	6	54.5	5		TPVPSVPSTSL	380	minor capsid protein L2 (NP_041331.2)	9	2473
+HPV16	Human papillomavirus 16	panel	Papillomaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		DSAPILTAF	263	regulatory protein E2 (NP_041328.1)	9	2473
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		DDSGTENEGS	3	E1 (NP_040298.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		GVFFGGLGI	51	minor capsid protein L2 (NP_040303.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		DPYGDRLFF	236	major capsid L1 protein (NP_040304.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		LTITTSTKDG	91	E4 protein (NP_040300.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	5	62.5	3		ITTSTKDG	93	E4 protein (NP_040300.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		QNIEFIPFLTKFKLW	450	E1 (NP_040298.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		EFIPFLTKFKLWLHG	453	E1 (NP_040298.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		TDSGYGYSEVE	133	E1 (NP_040298.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		SNMQAKYVK	396	E1 (NP_040298.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		IYSYAYKHL	43	E6 protein (NP_040296.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		SGYRGRSSI	467	major capsid L1 protein (NP_040304.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		DNPVYEGEDV	250	minor capsid protein L2 (NP_040303.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LIRCYLCHK	101	E6 protein (NP_040296.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		TFNLSMHTLQI	19	E6 protein (NP_040296.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	4	30.8	9		QFQGESNCLKCFR	289	regulatory protein E2 (NP_040299.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		VNTPSGSLV	288	major capsid L1 protein (NP_040304.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTFTFPNP	585	E1 (NP_040298.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		SEIAFEYAQRG	374	E1 (NP_040298.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		STWHWASSK	317	regulatory protein E2 (NP_040299.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		FFERLSSSLDI	613	E1 (NP_040298.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		FFERLSSSLD	613	E1 (NP_040298.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		EAIVQHPTG	21	E1 (NP_040298.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		LITSVIQDGDMV	186	major capsid L1 protein (NP_040304.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		VVWTDVYVQ	132	regulatory protein E2 (NP_040299.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		TPVPGTAPRPR	211	minor capsid protein L2 (NP_040303.1)	9	2496
+HPV6	Human papillomavirus 6b	panel	Papillomaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		VVKIPPTIS	349	regulatory protein E2 (NP_040299.1)	9	2496
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		DRAAGGGAGR	470	capsid portal protein (YP_009137157.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	5	55.6	4		RSFGGSGGY	154	tegument serine/threonine protein kinase (YP_009137164.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	5	55.6	4		QPAYERLSA	1780	large tegument protein (YP_009137188.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		NVILHSTETT	117	nuclear egress membrane protein (YP_009137186.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		NTTSTWEP	170	envelope glycoprotein L (YP_009137152.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		MLCGFSPALLAKMLF	453	single-stranded DNA-binding protein (YP_009137181.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	6	40.0	9		GFSPALLAKMLFYLE	456	single-stranded DNA-binding protein (YP_009137181.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	6	54.5	5		VGSDYDLLYFL	563	DNA packaging tegument protein UL25 (YP_009137176.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	6	66.7	3		SDYDLLYFL	565	DNA packaging tegument protein UL25 (YP_009137176.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		IPAYGQDLE	514	capsid portal protein (YP_009137157.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		SAVSGVSSF	759	envelope glycoprotein B (YP_009137179.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		FQKFYCFDGV	663	DNA packaging terminase subunit 2 (YP_009137180.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		LILQRLLGL	544	tegument protein VP13/14 (YP_009137199.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		SHPGSGAGQPT	49	uracil-DNA glycosylase (YP_009137153.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	6	46.2	7		SGGGPAVAAVVPR	308	ubiquitin E3 ligase ICP0 (YP_009137151.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	6	66.7	3		VAGGSEAAV	717	transcriptional regulator ICP4 (YP_009137212.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TAVVNNIN	412	capsid portal protein (YP_009137157.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	6	54.5	5		AEGAGPGASPR	175	envelope glycoprotein C (YP_009137196.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	5	55.6	4		GAGPGASPR	177	envelope glycoprotein C (YP_009137196.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	7	63.6	4		RFVALSGSLEA	256	tegument protein VP11/12 (YP_009137198.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	7	70.0	3	moderate	RFVALSGSLE	256	tegument protein VP11/12 (YP_009137198.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	5	55.6	4		SRMTQAQTD	455	ubiquitin E3 ligase ICP0 (YP_009137151.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		LPGPVPRTDCVA	244	tegument protein UL7 (YP_009137158.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	5	55.6	4		LVTQDRDWL	415	deoxyribonuclease (YP_009137163.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	6	54.5	5		DPTPADEGTAA	3	tegument protein UL7 (YP_009137158.1)	77	41565
+HSV2	Herpes simplex virus 2	panel	Herpesviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		VAGDPPGAD	70	nuclear protein UL3 (YP_009137154.1)	77	41565
+HBV	Hepatitis B virus	panel	Hepadnaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		YTSFPWLLGC	746	polymerase (YP_009173866.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	5	55.6	4		TSFPWLLGC	747	polymerase (YP_009173866.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	3	33.3	6		RLADEGLNR	27	polymerase (YP_009173866.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		GSSTTSTGPC	275	large envelope protein (YP_009173869.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		STTSTGPC	277	large envelope protein (YP_009173869.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		NPLGFFPDHQLDPAF	9	large envelope protein (YP_009173869.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		GRQPTPLSPPLRNTH	91	large envelope protein (YP_009173869.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		PCSDYCLSLIV	322	polymerase (YP_009173866.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		SDYCLSLIV	324	polymerase (YP_009173866.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		IGCYGSLPQ	589	polymerase (YP_009173866.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		SRYVARLSS	444	polymerase (YP_009173866.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		SQFSRGNYRV	382	polymerase (YP_009173866.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LCKQYLNLY	666	polymerase (YP_009173866.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		TTVCLGQNSQS	208	large envelope protein (YP_009173869.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		SQQGHLARRQQGR	216	polymerase (YP_009173866.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		LSSPSPSAV	37	X protein (YP_009173867.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTVCLGQN	208	large envelope protein (YP_009173869.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		TNFASKSASCL	255	polymerase (YP_009173866.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		FASKSASCL	257	polymerase (YP_009173866.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		FLFILLLCLIF	246	large envelope protein (YP_009173869.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		CGRPFSGSLG	26	X protein (YP_009173867.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		SPQAQGILQ	67	large envelope protein (YP_009173869.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		LVGSSGLSRYVA	437	polymerase (YP_009173866.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	3	33.3	6		LSWLSLDVS	412	polymerase (YP_009173866.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		QTLPANPPPAS	75	large envelope protein (YP_009173869.1)	7	2277
+HBV	Hepatitis B virus	panel	Hepadnaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		LPANPPPAS	77	large envelope protein (YP_009173869.1)	7	2277
+HAV	Hepatitis A virus	panel	Picornaviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		DPSQGGGIKI	284	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	3	33.3	6		TSAYTSLNV	219	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	3	33.3	6		QGEKFFLIH	79	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		RVSTTENVVN	252	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	3	37.5	5		IQSVDRTA	31	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		SNEVLPPPRKMKGLF	820	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		CFLLHWLNPKKINLA	951	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		MLSKYSLPIVE	1791	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		SKYSLPIVE	1793	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		DPQYPVWEL	197	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		SLAAGRSVW	870	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		KVFSKMLETV	1063	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LIDVSGITL	386	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		ILNILKDNQQK	1131	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	5	38.5	8		SVDKPGSKKTQGE	69	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		LTSPSNVAS	455	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		TTVSTEQN	501	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		SEFYFPRAPLN	746	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		TAVTGASYF	37	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	4	36.4	7		MFCFWRGDLVF	352	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		DAGVLTGRLI	883	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		SRQGIFQTV	4	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		LRLEVGKQRLKY	803	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		VVIQSLDVG	1592	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	4	36.4	7		TPVGLAVDTPW	651	hypothetical protein (NP_041007.1)	2	4452
+HAV	Hepatitis A virus	panel	Picornaviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	3	33.3	6		HSADWLTTH	87	hypothetical protein (NP_041007.1)	2	4452
+HEV	Hepatitis E virus	panel	Hepeviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	5	50.0	5		DTSAGYNHDV	224	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		TSAGYNHDV	225	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		SPAQPDLGF	713	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		GESTLYTRTW	696	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	5	62.5	3		STLYTRTW	698	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		KNWGPGPERAKQLRL	1612	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		AFCCSRLMTYLRGIS	334	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	4	36.4	7		AISDISGSYVV	513	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	4	44.4	5		SDISGSYVV	515	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	4	44.4	5		QPLYQALDL	529	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	5	55.6	4		AQAVARSLD	507	capsid protein (NP_056788.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	4	40.0	6		ARASMVFEND	1451	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		ELEQGLLYL	1265	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		CIHGSLVNSYT	279	capsid protein (NP_056788.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	4	30.8	9		YVPYPRSTEVYVR	278	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		DASQSTMAA	595	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		FDSTQNNF	1464	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		SIFGPGGTPSL	291	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		FANPPDHSA	81	hypothetical protein (YP_003864075.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		FVLPLRGKLSF	537	capsid protein (NP_056788.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	4	40.0	6		SLFPTSCSTK	300	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		SALANAVVV	26	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		LRGLPAADRTYC	135	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	4	44.4	5		RVTQGRRVV	1019	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		TPAAPLPPPAP	735	polyprotein (NP_056779.1)	3	2467
+HEV	Hepatitis E virus	panel	Hepeviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	4	44.4	5		SPAQPDLGF	713	polyprotein (NP_056779.1)	3	2467
+DENV1	Dengue virus 1	panel	Flaviviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	4	40.0	6		KTSAGVNMCT	140	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	4	44.4	5		TSAGVNMCT	141	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	4	44.4	5		QERGKSLLF	131	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	4	40.0	6		RVSTVSQLAK	22	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	4	50.0	4		LETRTETW	217	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	5	33.3	10		LNIMNRRKRSVTMLL	92	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	5	33.3	10		QERGKSLLFKTSAGV	131	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	6	54.5	5		TPQDNQLAYVV	2222	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		QDNQLAYVV	2224	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		LTDYGALTL	455	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	4	44.4	5		RKKTGRPSF	5	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	3	30.0	7		RGFKKEISNM	82	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	4	44.4	5		LIAMDLGEL	150	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		TWVTYGTCSQT	187	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	4	30.8	9		IEAKISNTTTDSR	341	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		EAFPQSNAV	1799	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		KGVTQNGR	623	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	4	36.4	7		SEGAWKQIQKV	227	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	3	33.3	6		FKKNGAIKV	72	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	5	45.5	6		NDVPLAGPLIA	1369	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	5	50.0	5		NDVPLAGPLI	1369	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	5	55.6	4		SAIAQAKAS	1638	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	4	33.3	8		LNIMNRRKRSVT	92	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	3	33.3	6		MNRRKRSVT	95	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	5	45.5	6		LRFLAIPPTAG	54	polyprotein (NP_059433.1)	1	3392
+DENV1	Dengue virus 1	panel	Flaviviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		FLAIPPTAG	56	polyprotein (NP_059433.1)	1	3392
+MCV	Molluscum contagiosum virus	panel	Poxviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	6	60.0	4		DTSSAGNTGD	14	MC133L (NP_044084.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	5	55.6	4		DSPGTRLGR	911	MC035R (NP_043986.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	5	55.6	4		FKTRKRLNF	552	MC129R (NP_044080.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	5	50.0	5		RVLGETLRTW	40	MC012L (NP_043963.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	5	62.5	3		VTTSDYTW	36	MC118L (NP_044069.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	6	40.0	9		FTRGLRPLMRNTYLF	24	MC038R (NP_043989.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	6	40.0	9		GLRPLMRNTYLFHNY	27	MC038R (NP_043989.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	5	45.5	6		LTSLETMPYVL	1158	MC006L (NP_043957.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	5	55.6	4		SLETMPYVL	1160	MC006L (NP_043957.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	5	55.6	4		QPQYQYLLP	77	MC025L (NP_043976.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	6	66.7	3		YDAVLRSSF	74	MC037R (NP_043988.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	5	50.0	5		FAFSIYPEQV	546	MC056L (NP_044007.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	5	55.6	4		DIGTSLYYL	1099	MC035R (NP_043986.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	5	45.5	6		RIEDSGQYLVT	146	MC002L (NP_043953.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	7	53.8	6		RVAGPSSNASKAR	61	MC143R (NP_044094.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	6	66.7	3		VAGPSSNAS	62	MC143R (NP_044094.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	5	62.5	3		TTVTTLNE	9	MC069R (NP_044020.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	6	54.5	5		HELVPPGASSS	161	MC068R (NP_044019.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	5	55.6	4		FHIPGASRQ	93	MC002L (NP_043953.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	6	54.5	5		PFLLLSGSPIT	159	MC095R (NP_044046.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	6	60.0	4		PFLLLSGSPI	159	MC095R (NP_044046.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	6	66.7	3		QAQAQAQQA	553	MC006L (NP_043957.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	5	41.7	7		PGVMVWIDMFVV	639	MC018L (NP_043969.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	5	55.6	4		MVWIDMFVV	642	MC018L (NP_043969.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	7	63.6	4		TPVPALQPEPF	139	MC036R (NP_043987.1)	163	54465
+MCV	Molluscum contagiosum virus	panel	Poxviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	5	55.6	4		RTADAPTAR	33	MC018L (NP_043969.1)	163	54465
+AAV2	Adeno-associated virus 2	control	Parvoviridae	DTSFGGNLGR	HLA-I	DTSFGGNLGR	10	10	100.0	0	exact	DTSFGGNLGR	107	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	TSFGGNLGR	HLA-I	TSFGGNLGR	9	9	100.0	0	exact	TSFGGNLGR	108	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	QPAKKRLNF	HLA-I	QPAKKRLNF	9	8	88.9	1	high	QPARKRLNF	165	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	RVITTSTRTW	HLA-I	RVITTSTRTW	10	10	100.0	0	exact	RVITTSTRTW	238	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	ITTSTRTW	HLA-I	ITTSTRTW	8	8	100.0	0	exact	ITTSTRTW	240	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	CD4_304_318	HLA-II_mouse	NNWGFRPKRLNFKLF	15	15	100.0	0	exact	NNWGFRPKRLNFKLF	302	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	CD4_307_321	HLA-II_mouse	GFRPKRLNFKLFNIQ	15	15	100.0	0	exact	GFRPKRLNFKLFNIQ	305	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	TDSDYQLPYVL	HLA-I	TDSDYQLPYVL	11	10	90.9	1	high	TDSEYQLPYVL	344	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	SDYQLPYVL	HLA-I	SDYQLPYVL	9	8	88.9	1	high	SEYQLPYVL	346	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	IPQYGYLTL	HLA-I	IPQYGYLTL	9	8	88.9	1	high	VPQYGYLTL	372	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	SQAVGRSSF	HLA-I	SQAVGRSSF	9	9	100.0	0	exact	SQAVGRSSF	384	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	FQFSYEFENV	HLA-I	FQFSYEFENV	10	7	70.0	3	moderate	FTFSYTFEDV	409	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	LIDQYLYYL	HLA-I	LIDQYLYYL	9	9	100.0	0	exact	LIDQYLYYL	437	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	VR4_450_460	antibody_footprint	TINGSGQNQQT	11	4	36.4	7		TRNGAGGGNKV	137	Rep 68 protein (YP_680422.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	SVAGPSNMAVQGR	HLA-I	SVAGPSNMAVQGR	13	6	46.2	7		SQAGASDIRDQSR	463	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	VAGPSNMAV	HLA-I	VAGPSNMAV	9	4	44.4	5		GAGGGNKVV	140	Rep 68 protein (YP_680422.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	PAV91_491_498	antibody_footprint	TTVTQNNN	8	4	50.0	4		VIVTSNTN	416	Rep 68 protein (YP_680422.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	SEFAWPGASSW	HLA-I	SEFAWPGASSW	11	5	45.5	6		SEYSWTGATKY	498	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	FAWPGASSW	HLA-I	FAWPGASSW	9	4	44.4	5		FSQAGASDI	462	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	RFFPLSGSLIF	HLA-I	RFFPLSGSLIF	11	8	72.7	3	moderate	KFFPQSGVLIF	532	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	RFFPLSGSLI	HLA-I	RFFPLSGSLI	10	7	70.0	3	moderate	KFFPQSGVLI	532	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	VR8_586_594	antibody_footprint	SAQAQAQTG	9	4	44.4	5		IAEAIAHTV	343	Rep 68 protein (YP_680422.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	LPGMVWQDRDVY	HLA-I	LPGMVWQDRDVY	12	12	100.0	0	exact	LPGMVWQDRDVY	601	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	MVWQDRDVY	HLA-I	MVWQDRDVY	9	9	100.0	0	exact	MVWQDRDVY	604	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	TPVPADPPTAF	HLA-I	TPVPADPPTAF	11	8	72.7	3	moderate	TPVPANPSTTF	651	major coat protein VP1 (YP_680426.1)	9	4091
+AAV2	Adeno-associated virus 2	control	Parvoviridae	VPADPPTAF	HLA-I	VPADPPTAF	9	6	66.7	3		VPANPSTTF	653	major coat protein VP1 (YP_680426.1)	9	4091

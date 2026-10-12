@@ -1,0 +1,181 @@
+virus_id	role	protein_id	product	compartment	start	end	length	selection
+EBV	panel	YP_401713.1	envelope glycoprotein B	virion envelope glycoprotein	1	857	857	EBV virion envelope glycoprotein
+EBV	panel	YP_401700.1	envelope glycoprotein H	virion envelope glycoprotein	1	706	706	EBV virion envelope glycoprotein
+EBV	panel	YP_401678.1	envelope glycoprotein L	virion envelope glycoprotein	1	137	137	EBV virion envelope glycoprotein
+EBV	panel	YP_401672.1	envelope glycoprotein gp42	virion envelope glycoprotein	1	223	223	EBV virion envelope glycoprotein
+EBV	panel	YP_401665.1	envelope glycoprotein N	virion envelope glycoprotein	1	102	102	EBV virion envelope glycoprotein
+EBV	panel	YP_401685.1	envelope glycoprotein M	virion envelope glycoprotein	1	405	405	EBV virion envelope glycoprotein
+EBV	panel	YP_401694.1	envelope glycoprotein gp150	virion envelope glycoprotein	1	234	234	EBV virion envelope glycoprotein
+EBV	panel	YP_401695.1	envelope glycoprotein gp48	virion envelope glycoprotein	1	420	420	EBV virion envelope glycoprotein
+EBV	panel	YP_401667.1	glycoprotein 350	virion envelope glycoprotein	1	907	907	EBV virion envelope glycoprotein
+CMV	panel	YP_081514.1	envelope glycoprotein B	virion envelope glycoprotein	1	907	907	CMV virion envelope glycoprotein (gB/gH/gL/gO/gM/gN or the pentamer subunits UL130/UL131A/UL132)
+CMV	panel	YP_081523.1	envelope glycoprotein H	virion envelope glycoprotein	1	742	742	CMV virion envelope glycoprotein (gB/gH/gL/gO/gM/gN or the pentamer subunits UL130/UL131A/UL132)
+CMV	panel	YP_081555.1	envelope glycoprotein L	virion envelope glycoprotein	1	278	278	CMV virion envelope glycoprotein (gB/gH/gL/gO/gM/gN or the pentamer subunits UL130/UL131A/UL132)
+CMV	panel	YP_081522.1	envelope glycoprotein O	virion envelope glycoprotein	1	472	472	CMV virion envelope glycoprotein (gB/gH/gL/gO/gM/gN or the pentamer subunits UL130/UL131A/UL132)
+CMV	panel	YP_081547.1	envelope glycoprotein M	virion envelope glycoprotein	1	371	371	CMV virion envelope glycoprotein (gB/gH/gL/gO/gM/gN or the pentamer subunits UL130/UL131A/UL132)
+CMV	panel	YP_081521.1	envelope glycoprotein N	virion envelope glycoprotein	1	135	135	CMV virion envelope glycoprotein (gB/gH/gL/gO/gM/gN or the pentamer subunits UL130/UL131A/UL132)
+CMV	panel	YP_081565.1	envelope glycoprotein UL130	virion envelope glycoprotein	1	214	214	CMV virion envelope glycoprotein (gB/gH/gL/gO/gM/gN or the pentamer subunits UL130/UL131A/UL132)
+CMV	panel	YP_081566.1	envelope protein UL131A	virion envelope glycoprotein	1	129	129	CMV virion envelope glycoprotein (gB/gH/gL/gO/gM/gN or the pentamer subunits UL130/UL131A/UL132)
+CMV	panel	YP_081567.1	envelope glycoprotein UL132	virion envelope glycoprotein	1	270	270	CMV virion envelope glycoprotein (gB/gH/gL/gO/gM/gN or the pentamer subunits UL130/UL131A/UL132)
+HHV6B	panel	NP_050220.1	glycoprotein B	virion envelope glycoprotein	1	830	830	HHV-6B U39 gB
+HHV6B	panel	NP_050229.1	glycoprotein H	virion envelope glycoprotein	1	694	694	HHV-6B U48 gH
+HHV6B	panel	NP_050261.1	glycoprotein L	virion envelope glycoprotein	1	250	250	HHV-6B U82 gL
+HHV6B	panel	NP_050251.1	glycoprotein M	virion envelope glycoprotein	1	344	344	HHV-6B U72 gM
+HHV6B	panel	NP_050227.1	glycoprotein N	virion envelope glycoprotein	1	84	84	HHV-6B U46 gN; RefSeq product is 'putative membrane /secreted protein', the 84-aa ORF directly upstream of gO
+HHV6B	panel	NP_050228.1	glycoprotein O	virion envelope glycoprotein	1	738	738	HHV-6B U47 gO
+HHV6B	panel	NP_050271.1	envelope glycoprotein Q	virion envelope glycoprotein	1	616	616	HHV-6B U100 gQ, the spliced envelope glycoprotein
+HHV6B	panel	NP_050230.1	putative fusion protein U49	virion envelope glycoprotein	1	252	252	HHV-6B ORF immediately downstream of gH; RefSeq calls it a putative fusion protein
+HHV6B	panel	NP_050264.1	glycoprotein U85	virion envelope glycoprotein	1	292	292	HHV-6B glycoprotein annotated next to U84; included as an annotated glycoprotein and not as a core entry protein
+HHV7	panel	YP_073779.1	envelope glycoprotein B	virion envelope glycoprotein	1	822	822	HHV-7 U39 gB
+HHV7	panel	YP_073788.1	envelope glycoprotein H	virion envelope glycoprotein	1	690	690	HHV-7 U48 gH
+HHV7	panel	YP_073820.1	envelope glycoprotein L	virion envelope glycoprotein	1	246	246	HHV-7 U82 gL
+HHV7	panel	YP_073812.1	envelope glycoprotein M	virion envelope glycoprotein	1	346	346	HHV-7 U72 gM
+HHV7	panel	YP_073786.1	envelope glycoprotein N	virion envelope glycoprotein	1	86	86	HHV-7 U46 gN
+HHV7	panel	YP_073787.1	envelope glycoprotein O	virion envelope glycoprotein	1	313	313	HHV-7 U47 gO
+HHV7	panel	YP_073827.1	envelope glycoprotein Q	virion envelope glycoprotein	1	603	603	HHV-7 U100 gQ
+BKV	panel	YP_717939.1	major capsid protein VP1	outer capsid	1	362	362	Polyomavirus surface is the major capsid VP1. VP2 and VP3 are interior.
+JCV	panel	NP_043511.1	major capsid protein VP1	outer capsid	1	354	354	Polyomavirus surface is the major capsid VP1. VP2 and VP3 are interior. The FASTA product is 'hypothetical protein'; this accession is the VP1-length capsid protein.
+MCPyV	panel	YP_009111420.1	major capsid protein VP1	outer capsid	1	423	423	Polyomavirus surface is the major capsid VP1. VP2 and VP3 are interior.
+KIPYV	panel	YP_001111258.1	major capsid protein VP1	outer capsid	1	378	378	Polyomavirus surface is the major capsid VP1. VP2 and VP3 are interior.
+WUPYV	panel	YP_001285487.1	major capsid protein VP1	outer capsid	1	369	369	Polyomavirus surface is the major capsid VP1. VP2 and VP3 are interior.
+B19	panel	YP_004928146.1	capsid protein VP1	outer capsid	1	781	781	Parvovirus capsid surface. NS1 and NP-1 are not capsid proteins.
+B19	panel	YP_004928148.1	capsid protein VP2	outer capsid	1	554	554	Parvovirus capsid surface. NS1 and NP-1 are not capsid proteins.
+HBOV1	panel	YP_338088.1	capsid protein VP1	outer capsid	1	671	671	Parvovirus capsid surface. NS1 and NP-1 are not capsid proteins.
+HBOV1	panel	YP_338089.1	capsid protein VP2	outer capsid	1	542	542	Parvovirus capsid surface. NS1 and NP-1 are not capsid proteins.
+TTV1	panel	NP_817122.1	capsid protein VP1	outer capsid	1	770	770	Anellovirus surface is ORF1 VP1. VP2 and VP3 were not taken.
+HADV_C	panel	NP_040525.1	hexon	outer capsid	1	968	968	Adenovirus exterior capsid. pIIIa, pVI, pVIII, and E3 membrane proteins were not taken.
+HADV_C	panel	NP_040521.1	penton base	outer capsid	1	571	571	Adenovirus exterior capsid. pIIIa, pVI, pVIII, and E3 membrane proteins were not taken.
+HADV_C	panel	NP_040533.1	fiber	outer capsid	1	582	582	Adenovirus exterior capsid. pIIIa, pVI, pVIII, and E3 membrane proteins were not taken.
+HADV_C	panel	NP_040514.1	capsid protein IX	outer capsid	1	140	140	Adenovirus exterior capsid. pIIIa, pVI, pVIII, and E3 membrane proteins were not taken.
+HADV_B	panel	YP_002213779.1	hexon	outer capsid	1	944	944	Adenovirus exterior capsid. pIIIa, pVI, pVIII, and E3 membrane proteins were not taken.
+HADV_B	panel	YP_002213774.1	penton base	outer capsid	1	544	544	Adenovirus exterior capsid. pIIIa, pVI, pVIII, and E3 membrane proteins were not taken.
+HADV_B	panel	YP_002213796.1	fiber	outer capsid	1	319	319	Adenovirus exterior capsid. pIIIa, pVI, pVIII, and E3 membrane proteins were not taken.
+HADV_B	panel	YP_002213768.1	capsid protein IX	outer capsid	1	138	138	Adenovirus exterior capsid. pIIIa, pVI, pVIII, and E3 membrane proteins were not taken.
+FLUA_H1N1	panel	YP_009118626.1	hemagglutinin	virion envelope glycoprotein	1	566	566	Influenza A virion surface. NP, M1, and the polymerase were not taken.
+FLUA_H1N1	panel	YP_009118627.1	neuraminidase	virion envelope glycoprotein	1	469	469	Influenza A virion surface. NP, M1, and the polymerase were not taken.
+FLUA_H1N1	panel	YP_009118622.1	matrix protein 2	envelope small protein	1	97	97	Influenza A virion surface. NP, M1, and the polymerase were not taken.
+FLUA_H3N2	panel	YP_308839.1	hemagglutinin	virion envelope glycoprotein	1	566	566	Influenza A virion surface. NP, M1, and the polymerase were not taken.
+FLUA_H3N2	panel	YP_308842.1	neuraminidase	virion envelope glycoprotein	1	469	469	Influenza A virion surface. NP, M1, and the polymerase were not taken.
+FLUA_H3N2	panel	YP_308840.1	matrix protein 2	envelope small protein	1	97	97	Influenza A virion surface. NP, M1, and the polymerase were not taken.
+FLUB	panel	NP_056660.1	hemagglutinin	virion envelope glycoprotein	1	584	584	Influenza B virion surface. BM2 is not annotated on this RefSeq. NP and M1 were not taken.
+FLUB	panel	NP_056663.1	neuraminidase	virion envelope glycoprotein	1	466	466	Influenza B virion surface. BM2 is not annotated on this RefSeq. NP and M1 were not taken.
+FLUB	panel	NP_056662.1	NB protein	envelope small protein	1	100	100	Influenza B virion surface. BM2 is not annotated on this RefSeq. NP and M1 were not taken.
+RSV_A	panel	NP_044596.1	fusion protein F	virion envelope glycoprotein	1	574	574	Pneumovirus envelope. Matrix and polymerase proteins were not taken.
+RSV_A	panel	NP_044595.1	attachment glycoprotein G	virion envelope glycoprotein	1	298	298	Pneumovirus envelope. Matrix and polymerase proteins were not taken.
+RSV_A	panel	NP_044594.1	small hydrophobic protein SH	envelope small protein	1	64	64	Pneumovirus envelope. Matrix and polymerase proteins were not taken.
+HMPV	panel	YP_012608.1	fusion protein F	virion envelope glycoprotein	1	539	539	Pneumovirus envelope. Matrix and polymerase proteins were not taken.
+HMPV	panel	YP_012612.1	attachment glycoprotein G	virion envelope glycoprotein	1	219	219	Pneumovirus envelope. Matrix and polymerase proteins were not taken.
+HMPV	panel	YP_012611.1	small hydrophobic protein SH	envelope small protein	1	179	179	Pneumovirus envelope. Matrix and polymerase proteins were not taken.
+HPIV1	panel	NP_604440.1	fusion protein F	virion envelope glycoprotein	1	555	555	Parainfluenza envelope. The nucleocapsid, matrix, and polymerase were not taken.
+HPIV1	panel	NP_604441.1	hemagglutinin-neuraminidase	virion envelope glycoprotein	1	575	575	Parainfluenza envelope. The nucleocapsid, matrix, and polymerase were not taken.
+HPIV2	panel	NP_598404.1	fusion protein F	virion envelope glycoprotein	1	551	551	Parainfluenza envelope. The nucleocapsid, matrix, and polymerase were not taken.
+HPIV2	panel	NP_598405.1	hemagglutinin-neuraminidase	virion envelope glycoprotein	1	571	571	Parainfluenza envelope. The nucleocapsid, matrix, and polymerase were not taken.
+HPIV3	panel	NP_067151.1	fusion protein F	virion envelope glycoprotein	1	539	539	Parainfluenza envelope. The nucleocapsid, matrix, and polymerase were not taken.
+HPIV3	panel	NP_067152.1	hemagglutinin-neuraminidase	virion envelope glycoprotein	1	574	574	Parainfluenza envelope. The nucleocapsid, matrix, and polymerase were not taken.
+HPIV4	panel	YP_008378663.1	fusion protein F	virion envelope glycoprotein	1	543	543	Parainfluenza envelope. The nucleocapsid, matrix, and polymerase were not taken.
+HPIV4	panel	YP_008378664.1	hemagglutinin-neuraminidase	virion envelope glycoprotein	1	574	574	Parainfluenza envelope. The nucleocapsid, matrix, and polymerase were not taken.
+COV_229E	panel	NP_073551.1	surface glycoprotein	virion envelope glycoprotein	1	1173	1173	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+COV_229E	panel	NP_073554.1	envelope protein	envelope small protein	1	77	77	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+COV_229E	panel	NP_073555.1	membrane protein	envelope small protein	1	225	225	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+COV_NL63	panel	YP_003767.1	spike protein	virion envelope glycoprotein	1	1356	1356	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+COV_NL63	panel	YP_003769.1	envelope protein	envelope small protein	1	77	77	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+COV_NL63	panel	YP_003770.1	membrane protein	envelope small protein	1	226	226	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+COV_OC43	panel	YP_009555241.1	spike glycoprotein	virion envelope glycoprotein	1	1353	1353	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+COV_OC43	panel	YP_009555240.1	hemagglutinin-esterase	virion envelope glycoprotein	1	424	424	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+COV_OC43	panel	YP_009555243.1	envelope protein	envelope small protein	1	84	84	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+COV_OC43	panel	YP_009555244.1	membrane protein	envelope small protein	1	230	230	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+COV_HKU1	panel	YP_173238.1	spike glycoprotein	virion envelope glycoprotein	1	1356	1356	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+COV_HKU1	panel	YP_173237.1	hemagglutinin-esterase	virion envelope glycoprotein	1	386	386	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+COV_HKU1	panel	YP_173240.1	envelope protein	envelope small protein	1	82	82	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+COV_HKU1	panel	YP_173241.1	membrane glycoprotein	envelope small protein	1	223	223	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+SARS2	panel	YP_009724390.1	surface glycoprotein	virion envelope glycoprotein	1	1273	1273	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+SARS2	panel	YP_009724392.1	envelope protein	envelope small protein	1	75	75	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+SARS2	panel	YP_009724393.1	membrane glycoprotein	envelope small protein	1	222	222	Coronavirus virion envelope. Nucleocapsid and the replicase were not taken.
+NORO_GI	panel	NP_056821.2	capsid protein VP1	outer capsid	1	530	530	Norovirus surface is VP1. VP2 is a minor interior protein and was not taken.
+NORO_GII	panel	YP_009518842.1	capsid protein VP1	outer capsid	1	540	540	Norovirus surface is VP1. VP2 is a minor interior protein and was not taken.
+ROTA	panel	YP_002302230.1	outer capsid spike protein VP4	outer capsid	1	776	776	Rotavirus outer capsid only. VP6 and the inner capsid were not taken.
+ROTA	panel	YP_002302222.1	outer capsid protein VP7	outer capsid	1	326	326	Rotavirus outer capsid only. VP6 and the inner capsid were not taken.
+ASTV	panel	NP_059444.1	capsid precursor	outer capsid	1	786	786	Astrovirus capsid precursor. The nonstructural protein was not taken.
+HEV	panel	NP_056788.1	capsid protein	outer capsid	1	660	660	Hepatitis E capsid. ORF1 is the replicase and was not taken.
+HBV	panel	YP_009173869.1	large envelope protein	virion envelope	1	389	389	Large envelope protein only. It contains preS1, preS2, and S. Middle and small envelope proteins are truncations of this sequence, so they were not scanned again. Core is internal.
+HPV16	panel	NP_041332.2	major capsid protein L1	outer capsid	1	505	505	Papillomavirus major capsid.
+HPV16	panel	NP_041331.2	minor capsid protein L2	minor capsid	1	473	473	L2 is partly internal. A portion is exposed on the particle, so it is included and labeled as the minor capsid protein.
+HPV6	panel	NP_040304.1	major capsid protein L1	outer capsid	1	500	500	Papillomavirus major capsid.
+HPV6	panel	NP_040303.1	minor capsid protein L2	minor capsid	1	459	459	L2 is partly internal. A portion is exposed on the particle, so it is included and labeled as the minor capsid protein.
+AAV2	control	YP_680426.1	major coat protein VP1	outer capsid	1	735	735	Positive control. AAV2 VP1 only; VP2 and VP3 are truncations of the same sequence. Not one of the 50.
+HSV1	panel	YP_009137075.1	envelope glycoprotein L	virion envelope glycoprotein	1	224	224	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV1	panel	YP_009137084.1	envelope glycoprotein M	virion envelope glycoprotein	1	473	473	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV1	panel	YP_009137096.1	envelope glycoprotein H	virion envelope glycoprotein	1	838	838	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV1	panel	YP_009137102.1	envelope glycoprotein B	virion envelope glycoprotein	1	904	904	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV1	panel	YP_009137119.1	envelope glycoprotein C	virion envelope glycoprotein	1	511	511	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV1	panel	YP_009137125.1	envelope glycoprotein N	virion envelope glycoprotein	1	91	91	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV1	panel	YP_009137129.1	envelope glycoprotein K	virion envelope glycoprotein	1	338	338	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV1	panel	YP_009137139.1	envelope glycoprotein G	virion envelope glycoprotein	1	238	238	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV1	panel	YP_009137140.1	envelope glycoprotein J	virion envelope glycoprotein	1	92	92	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV1	panel	YP_009137141.1	envelope glycoprotein D	virion envelope glycoprotein	1	394	394	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV1	panel	YP_009137142.1	envelope glycoprotein I	virion envelope glycoprotein	1	390	390	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV1	panel	YP_009137143.1	envelope glycoprotein E	virion envelope glycoprotein	1	550	550	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV2	panel	YP_009137152.1	envelope glycoprotein L	virion envelope glycoprotein	1	224	224	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV2	panel	YP_009137161.1	envelope glycoprotein M	virion envelope glycoprotein	1	467	467	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV2	panel	YP_009137173.1	envelope glycoprotein H	virion envelope glycoprotein	1	838	838	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV2	panel	YP_009137179.1	envelope glycoprotein B	virion envelope glycoprotein	1	904	904	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV2	panel	YP_009137196.1	envelope glycoprotein C	virion envelope glycoprotein	1	480	480	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV2	panel	YP_009137202.1	envelope glycoprotein N	virion envelope glycoprotein	1	87	87	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV2	panel	YP_009137206.1	envelope glycoprotein K	virion envelope glycoprotein	1	338	338	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV2	panel	YP_009137216.1	envelope glycoprotein G	virion envelope glycoprotein	1	699	699	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV2	panel	YP_009137217.1	envelope glycoprotein J	virion envelope glycoprotein	1	92	92	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV2	panel	YP_009137218.1	envelope glycoprotein D	virion envelope glycoprotein	1	393	393	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV2	panel	YP_009137219.1	envelope glycoprotein I	virion envelope glycoprotein	1	372	372	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HSV2	panel	YP_009137220.1	envelope glycoprotein E	virion envelope glycoprotein	1	545	545	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+VZV	panel	NP_040128.1	envelope glycoprotein K	virion envelope glycoprotein	1	340	340	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+VZV	panel	YP_068406.1	envelope glycoprotein N	virion envelope glycoprotein	1	87	87	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+VZV	panel	NP_040137.1	envelope glycoprotein C	virion envelope glycoprotein	1	560	560	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+VZV	panel	NP_040154.2	envelope glycoprotein B	virion envelope glycoprotein	1	931	931	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+VZV	panel	NP_040160.1	envelope glycoprotein H	virion envelope glycoprotein	1	841	841	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+VZV	panel	NP_040172.1	envelope glycoprotein M	virion envelope glycoprotein	1	435	435	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+VZV	panel	NP_040182.1	envelope glycoprotein L	virion envelope glycoprotein	1	159	159	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+VZV	panel	NP_040189.1	envelope glycoprotein I	virion envelope glycoprotein	1	354	354	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+VZV	panel	NP_040190.1	envelope glycoprotein E	virion envelope glycoprotein	1	623	623	Product name contains 'envelope glycoprotein'. UL20, UL43, UL45, UL56, US8A, and US9 are not in this set.
+HRV_A	panel	NP_042288.1	capsid protein VP2	outer capsid	70	336	267	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+HRV_A	panel	NP_042288.1	capsid protein VP3	outer capsid	337	574	238	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+HRV_A	panel	NP_042288.1	capsid protein VP1	outer capsid	575	872	298	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+HRV_B	panel	NP_041009.1	capsid protein VP2	outer capsid	70	331	262	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+HRV_B	panel	NP_041009.1	capsid protein VP3	outer capsid	332	567	236	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+HRV_B	panel	NP_041009.1	capsid protein VP1	outer capsid	568	856	289	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+HRV_C	panel	YP_001552411.1	capsid protein VP2	outer capsid	68	328	261	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+HRV_C	panel	YP_001552411.1	capsid protein VP3	outer capsid	329	563	235	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+HRV_C	panel	YP_001552411.1	capsid protein VP1	outer capsid	564	837	274	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+EVA	panel	NP_042242.1	capsid protein VP2	outer capsid	70	323	254	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+EVA	panel	NP_042242.1	capsid protein VP3	outer capsid	324	565	242	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+EVA	panel	NP_042242.1	capsid protein VP1	outer capsid	566	862	297	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+EVB	panel	NP_040958.1	capsid protein VP2	outer capsid	70	332	263	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+EVB	panel	NP_040958.1	capsid protein VP3	outer capsid	333	570	238	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+EVB	panel	NP_040958.1	capsid protein VP1	outer capsid	571	848	278	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+EVD68	panel	YP_009505605.1	capsid protein VP2	outer capsid	70	317	248	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+EVD68	panel	YP_009505605.1	capsid protein VP3	outer capsid	318	552	235	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+EVD68	panel	YP_009505605.1	capsid protein VP1	outer capsid	553	861	309	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+HPEV	panel	NP_046804.1	capsid protein VP0	outer capsid (VP0; parechoviruses do not cleave a VP4)	1	289	289	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+HPEV	panel	NP_046804.1	capsid protein VP3	outer capsid	290	542	253	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+HPEV	panel	NP_046804.1	capsid protein VP1	outer capsid	543	772	230	NCBI protein feature table mat_peptide; VP4 is internal and was not taken
+DENV1	panel	NP_059433.1	membrane protein M	virion envelope	206	280	75	NCBI mat_peptide on the dengue polyprotein; capsid C, pr, and nonstructural proteins were not taken
+DENV1	panel	NP_059433.1	envelope protein E	virion envelope	281	775	495	NCBI mat_peptide on the dengue polyprotein; capsid C, pr, and nonstructural proteins were not taken
+HAV	panel	NP_041007.1	capsid protein VP2	outer capsid	24	245	222	UniProt P08617 chains; the sequence is identical to NP_041007.1. VP4 (1-23) is internal. VP1 stops at 764, before the 2A tail
+HAV	panel	NP_041007.1	capsid protein VP3	outer capsid	246	491	246	UniProt P08617 chains; the sequence is identical to NP_041007.1. VP4 (1-23) is internal. VP1 stops at 764, before the 2A tail
+HAV	panel	NP_041007.1	capsid protein VP1	outer capsid	492	764	273	UniProt P08617 chains; the sequence is identical to NP_041007.1. VP4 (1-23) is internal. VP1 stops at 764, before the 2A tail
+SAPV	panel	YP_077278.1	capsid protein VP1	outer capsid	1738	2280	543	ORF1 has no mat_peptide. VP1 is taken from the Calici_coat domain (1738) through the ORF1 C-terminus. ORF2, the minor capsid protein, is internal to the particle and was left out
+MCV	panel	NP_043967.1	MC016L (F9L homolog)	virion membrane	1	213	213	Best BLOSUM62 local hit to vaccinia F9L (NP_063688.1): 42.6% identity over 204 columns (96% of F9L). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
+MCV	panel	NP_043972.1	MC021L (F13L homolog)	virion membrane	1	388	388	Best BLOSUM62 local hit to vaccinia F13L (NP_063694.1): 43.0% identity over 351 columns (94% of F13L). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
+MCV	panel	NP_044008.1	MC057L (G3L homolog)	virion membrane	1	108	108	Best BLOSUM62 local hit to vaccinia G3L (NP_063729.1): 31.4% identity over 105 columns (95% of G3L). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
+MCV	panel	NP_044019.1	MC068R (G9R homolog)	virion membrane	1	342	342	Best BLOSUM62 local hit to vaccinia G9R (NP_063738.1): 40.5% identity over 331 columns (97% of G9R). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
+MCV	panel	NP_044020.1	MC069R (L1R homolog)	virion membrane	1	243	243	Best BLOSUM62 local hit to vaccinia L1R (NP_063739.1): 59.7% identity over 243 columns (97% of L1R). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
+MCV	panel	NP_044025.1	MC074R (L5R homolog)	virion membrane	1	146	146	Best BLOSUM62 local hit to vaccinia L5R (NP_063743.1): 35.2% identity over 105 columns (82% of L5R). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
+MCV	panel	NP_044029.1	MC078L (J5L homolog)	virion membrane	1	134	134	Best BLOSUM62 local hit to vaccinia J5L (NP_063748.1): 50.0% identity over 124 columns (93% of J5L). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
+MCV	panel	NP_044034.1	MC083R (H2R homolog)	virion membrane	1	191	191	Best BLOSUM62 local hit to vaccinia H2R (NP_063752.1): 51.9% identity over 181 columns (96% of H2R). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
+MCV	panel	NP_044035.1	MC084L (H3L homolog)	virion membrane	1	298	298	Best BLOSUM62 local hit to vaccinia H3L (NP_063753.1): 29.7% identity over 256 columns (79% of H3L). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
+MCV	panel	NP_044069.1	MC118L (A14L homolog)	virion membrane	1	94	94	Best BLOSUM62 local hit to vaccinia A14L (NP_063799.1): 40.0% identity over 90 columns (100% of A14L). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
+MCV	panel	NP_044072.1	MC121L (A16L homolog)	virion membrane	1	364	364	Best BLOSUM62 local hit to vaccinia A16L (NP_063801.1): 42.5% identity over 353 columns (93% of A16L). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
+MCV	panel	NP_044073.1	MC122L (A17L homolog)	virion membrane	1	179	179	Best BLOSUM62 local hit to vaccinia A17L (NP_063802.1): 43.6% identity over 156 columns (77% of A17L). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
+MCV	panel	NP_044076.1	MC125L (A21L homolog)	virion membrane	1	114	114	Best BLOSUM62 local hit to vaccinia A21L (NP_063805.1): 39.1% identity over 110 columns (94% of A21L). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
+MCV	panel	NP_044082.1	MC131L (A26L homolog)	virion membrane	1	513	513	Best BLOSUM62 local hit to vaccinia A26L (NP_063814.1): 34.7% identity over 170 columns (53% of A26L). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
+MCV	panel	NP_044084.1	MC133L (A27L homolog)	virion membrane	1	546	546	Best BLOSUM62 local hit to vaccinia A27L (NP_063815.1): 42.9% identity over 70 columns (64% of A27L). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
+MCV	panel	NP_044085.1	MC134L (A28L homolog)	virion membrane	1	141	141	Best BLOSUM62 local hit to vaccinia A28L (NP_063816.1): 54.3% identity over 140 columns (96% of A28L). Accepted at >=30% identity and >=50% coverage of the vaccinia protein.
