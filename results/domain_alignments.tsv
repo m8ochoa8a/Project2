@@ -1,0 +1,8 @@
+virus_id	virus_name	role	viral_protein	viral_length	score	aligned_columns	matches	percent_identity	query_start	query_end	target_start	target_end
+B19	Parvovirus B19	panel	capsid protein 1 (YP_004928146.1)	781	567.0	588	184	31.3	38	698	116	733
+B19	Parvovirus B19	panel	capsid protein 2 (YP_004928148.1)	554	466.0	471	144	30.6	212	698	7	506
+HBOV1	Human bocavirus 1	panel	VP1 (YP_338088.1)	671	742.0	610	220	36.1	43	724	9	654
+HBOV1	Human bocavirus 1	panel	VP2 (YP_338089.1)	542	515.0	483	159	32.9	195	724	11	525
+AAV2	Adeno-associated virus 2	control	major coat protein VP1 (YP_680426.1)	735	3294.0	734	602	82.0	1	736	1	735
+AAV2	Adeno-associated virus 2	control	major coat protein VP2 (YP_680427.1)	598	2650.0	596	484	81.2	139	736	2	598
+AAV2	Adeno-associated virus 2	control	major coat protein VP3 (YP_680428.1)	533	2371.0	532	434	81.6	203	736	1	533
